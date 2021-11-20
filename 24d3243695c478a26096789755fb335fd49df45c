@@ -1,0 +1,5 @@
+public fun range {
+}
+defer{defer{for const x in range {
+for const xp in range(x) {
+}}return}return}return

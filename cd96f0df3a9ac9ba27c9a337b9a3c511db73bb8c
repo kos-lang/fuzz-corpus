@@ -1,0 +1,23 @@
+fun will_throw
+{
+  void
+var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+ [ will_throw... ]
+}
+catch const e { exc = e.valMu
+delete[!delete[delete[delete[delete[delete[delete[delete[!delete[delete[!delete[delete[delete[delete[delete[delete[!8].M].M].t].N].M].M].M1].M].M].M].M5].M].M].M].M1].M}yield 18
+}
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+assert exc

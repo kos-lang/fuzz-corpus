@@ -1,0 +1,35 @@
+fun will_throw
+{
+  var a  = void
+try {
+  
+}
+catch const e {
+}
+
+try {[ will_throw()...]
+.ca 
+}
+catch const e {}
+
+try {  a = [ will_throw()... ]
+}
+catch const e {
+   e
+}
+
+try {
+   [ will_throw... ]
+}
+catch const e {
+ e.valuMpp______________________________________________pppppppppppppp
+} 4
+}
+var a   = void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+assert exc

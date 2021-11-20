@@ -1,0 +1,2 @@
+import re.re
+re("\\\\\\\\\\w\\wt\\\\\\w\wai\wi\\\w\\wt\\\\\\w\wait\\\\\\wi\\rc")

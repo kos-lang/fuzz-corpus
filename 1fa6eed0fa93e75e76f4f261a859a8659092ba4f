@@ -1,0 +1,8 @@
+public fun range{ }
+for const x in range(1,5,5.-55553) {
+}
+
+for const x in range(1,5,55.-5555){
+}
+
+for const x in range(0,55,55.-555) {}

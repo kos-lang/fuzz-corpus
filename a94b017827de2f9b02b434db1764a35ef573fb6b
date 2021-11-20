@@ -1,0 +1,61 @@
+fun will_throw
+{
+  var a   = void
+var exc = void
+try {
+    a = [ will_throw()... ]
+    a = [ will_throw()... ]
+}
+catch const e {e.void
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+e.valid
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+ #  e.val}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+
+
+try {  a = [ will_throw()... ]
+}catch const e {
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+ #   ee {vld
+try {
+    a = [ will_throw()... ]
+}
+catch const e  {
+    exc = e.value
+}
+
+try {
+    a - [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+}
+}}assert yield 34
+}
+var a   = 3
+ #  alvue
+}assert"``````vid"
+    throw 13
+ ## = e.alvue
+}assert""
+    throw 13
+}
+     13
+
+}
+var a   = void
+var c = a  == "void"

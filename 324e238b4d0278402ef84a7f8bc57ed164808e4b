@@ -1,0 +1,100 @@
+fun will_throw
+{
+  var a   = void
+var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+ [ will_throw()... ]
+}
+catch const e {
+e
+}
+try {
+ }
+catch const e { exc = e.value
+}
+ exc = void
+try {
+  [will_throw()... ]
+""
+   
+
+try {
+ }
+catch const e {
+ }
+
+try {
+  
+}
+catch const e {
+}
+
+
+try {
+   a = [ will_throw()... ]
+}
+catch const e {}
+
+try {
+ }
+catch const e {
+ }
+
+try {
+  
+}
+catch const e {
+}
+
+try {[ will_throw().uc ]
+}
+catch const e {
+    exc#
+}a = [  ]
+}
+catch const e {}
+
+try {
+ }
+catch const e {
+ }
+
+try {
+  
+}
+catch const e {
+}
+
+
+try {
+   [ will_throw()... ]
+}
+catch const  e {
+}
+
+try {[ will_throw().uc ]
+}
+catch const e {
+exc#
+}
+
+try {
+ 
+}
+catch const e {
+} yield 14
+}
+var a   = void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+assert exc

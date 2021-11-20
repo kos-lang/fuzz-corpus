@@ -1,0 +1,16 @@
+fun gen1
+{
+0.5
+}
+fun gen2(x)
+{
+ fun yield_args(args...)
+{
+ for const v in args {
+ yield_args(gen1()..., gen1(3))
+ 30
+} args(8.,gen1(), gen1(), gen2()...)
+ 30}
+}
+fun yield_args
+{ yield_args(gen2, gen1)}

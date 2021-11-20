@@ -1,0 +1,25 @@
+fun will_throw
+{
+  var a   = void
+var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+a = [ will_throw()... ]
+}
+catch const e {}5[!0]
+=1
+ yield 18
+}
+var a = void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+a>g=>ww=>gw=>ww_=>gw/*=>w{=>w}w=>g

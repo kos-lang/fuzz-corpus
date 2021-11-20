@@ -1,0 +1,2 @@
+class c2 extends 1{c1{ return super.g()}}
+class extends c2{_{return super.c()}}

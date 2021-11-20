@@ -1,0 +1,22 @@
+fun will_throw
+{ void
+try {
+  [!will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+ [ will_throw() ]
+}
+catch const e {delete e.vqlu<<e
+}
+
+}
+var exc = void
+try{[ will_throw()... ]
+}
+catch const e {
+ e
+}
+assert exc

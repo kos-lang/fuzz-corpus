@@ -1,0 +1,30 @@
+fun will_throw
+{  void
+try {
+  [ 0.+4+4+4+4+3+will_throw()... ]
+""}
+catch const e {e
+}
+
+try {
+
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+
+
+     [ will_throw()... ]
+}
+catch const e {
+ #  e4{
+}# yi0
+}
+var  exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}assert exc

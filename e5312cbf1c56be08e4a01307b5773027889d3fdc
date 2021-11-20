@@ -1,0 +1,14 @@
+fun will_throw
+{try {
+  [ will_throw()... ]
+}
+catch const e {__line__>>e#x	{
+}
+}
+var a   = void
+var exc = void
+try {[will_throw()... ]}
+catch const e {
+ e
+}
+assert exc

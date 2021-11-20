@@ -1,0 +1,2 @@
+import re.re
+re("\wai\\w\\W\w\\W")

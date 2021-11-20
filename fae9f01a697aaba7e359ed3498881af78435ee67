@@ -1,0 +1,30 @@
+fun will_throw
+{
+ var a   = void
+var exc = void
+try {   a = [ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+    [3, 3, 1].sregisters = [ will_throw()... ]
+}
+catch const e {
+  e.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8
+->www=>g=>ww=>gw=>ww_=>g=>w=>0
+8
+->w=>pv=>
+8
+defer{classe{}vara=25}

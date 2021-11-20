@@ -1,0 +1,21 @@
+fun will_throw
+{void
+try {
+  [+14+3+will_throw()... ]
+""}
+catch const e { e
+}
+
+try { [ will_throw()... ]
+}
+catch const e {
+ #  exc2+4
+}# yield 89
+}
+ void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+#assexc

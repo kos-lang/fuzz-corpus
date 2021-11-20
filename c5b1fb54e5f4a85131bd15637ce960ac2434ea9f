@@ -1,0 +1,37 @@
+fun will_throw
+{
+  var a = void
+var exc = void
+try {
+  
+}
+catch const e {
+}
+
+try {[ will_throw()...]
+
+}
+catch const e {}
+
+try {  a = [ will_throw()... ]
+}
+catch const e {
+ return  
+}try {
+   [ will_throw... ]
+}
+catch const e {
+    exc = e.valuMpppppppppppppppppppppppppppppppppppppptppppppppppppppppp
+}
+
+try {
+
+}
+catch const e {
+} yield 18
+}var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+} exc

@@ -1,0 +1,32 @@
+fun will_throw
+{
+  var a   = void
+var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+     [ will_throw()... ]
+
+   a = [async will_throw()... ]
+}
+catch const e {}
+
+try {
+ }
+catch const e {
+ }
+""[0]
+ yield 18
+}
+var a   = void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+assert exc

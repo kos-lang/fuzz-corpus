@@ -1,0 +1,5 @@
+import re.re
+re("")
+<re("fc")
+re("c")
+<re("\\\c")

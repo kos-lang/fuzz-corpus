@@ -1,0 +1,6 @@
+public fun range {  
+}
+for const x  in range{
+for const x in range(x,x...,x,x...,2) (x,x...,1)(x,x...,0) {
+}
+}

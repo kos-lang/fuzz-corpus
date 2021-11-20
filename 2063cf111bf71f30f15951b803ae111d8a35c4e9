@@ -1,0 +1,9 @@
+fun g
+{ fun yield_args(args)
+{ for const v in args {
+ 
+fun sle{ yield_args(typeof void ...)
+}
+}yield_args(8, typeof void ...)
+ 30}
+}

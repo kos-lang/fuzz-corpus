@@ -1,0 +1,3 @@
+class  c2 { c{ return 0 ._c() }
+}class extends c2 {ge { return super.c()}
+ g{ return super.e() }}

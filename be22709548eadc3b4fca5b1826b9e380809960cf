@@ -1,0 +1,18 @@
+import re.re
+
+re("\\W\\\\\\\\\\\\\\\\\\ddd\\\*\\]ddddddddd\dc")
+re("\\\\\ddd\\\*\\]ddddddddd\ddc")
+re("\\W\\\\\\W\\\\\dd\ddc")
+re("\\W\\\\\\\\\ddc")
+re("\\W\\\\\dd\dda")
+re("\\\\\\\\\\\d|\\\\\ddd\\\*\\]ddddddddd\ddc")
+re("\\W\\\\\\W\\\\\dd:ddc")
+re("\\W\\\\\\\\\break\\\\ddd\\\*\\]dddd||ddd\ddc")
+re("\\W\\\\\dd\\\]ddd\ddc")
+re("\\W\\\\\\W\\\\\dd:ddc")
+re("\\W\\\\\\\\\\\\d\ddc")
+re("\\W\\ddddddd\ddc")
+re("dd\ddcdd\ddc")
+re("\\W\\\|dd\\\ddd\\\*\\]ddddddddd\ddc")
+re("\\W\\\\\dd\ddc")
+re("\\W\d|")

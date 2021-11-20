@@ -1,0 +1,236 @@
+fun will_throw
+{
+  var a   = void
+var exc = void
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+ # ue
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+}
+
+try {
+  }
+catch const e { exc = e.vaue
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc# = e.void
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+ #   xc = e.valuevoid
+try {
+ 
+}
+catch const e {
+ #   exc = t e {
+ #   exc = e.vae
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc = e.val}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc# = e.alvuc = void
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+ #   
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc# = e.void
+try {[ will_throw()... ]
+}
+catch const e {
+ #   ee= {
+ #   exc = e.valuevoid
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+ #   exc = t e {
+ #   exc = e.value
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+}
+
+try {
+    a - [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc# = e.void
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+ #   ealue
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+}
+
+try {}
+catch const e {
+    exc = e.value
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc# = e.alvue
+}assert"```````````````id"
+    throw 20
+ #  alvue
+}
+}
+var a   = void
+var exc = void
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+   88888888888888888888
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+e
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+  # = e.alue
+}assert"````id"
+    throw 13
+ #  alvue
+}assert yield 17
+}
+var a   = void
+var exc = void
+try {
+ [ will_throw()... ]
+}
+catch const e {
+    exc = e.Q888888888828}a
+    throw 13
+ #  alvue
+}assert"````````````````vid"
+    throw 13
+ #  yield 17
+}
+var a   = void
+var exc = void
+try {
+    [ will_throw()... ]
+}
+catch const e {
+ 8
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {
+    exc = e.value
+}
+
+try {
+ a = [ will_throw()... ]
+}
+catch const e {
+    exc# = e.alvue
+}assert"```````id"
+    throw 13
+ #  alvue
+}assert"````````````````vid"
+    throw 13
+ #  yield 17
+}
+var a   = void
+var exc = 13
+assert typeof a  == "void"

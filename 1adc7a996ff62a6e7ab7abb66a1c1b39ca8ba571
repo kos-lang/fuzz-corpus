@@ -1,0 +1,14 @@
+fun will_throw
+{
+  var exc = void
+try {
+ [ will_throw()... ]
+}
+catch const e {
+  exc =delete e.value
+exc = e.value.valu
+} yield 3
+}void
+try {[ will_throw()... ]
+}
+catch const e {}

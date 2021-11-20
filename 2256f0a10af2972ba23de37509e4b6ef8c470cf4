@@ -1,0 +1,32 @@
+fun will_throw
+{
+ var a   = void
+var exc = void
+try {   a = [ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+  fun will_throw
+{
+exc = void
+try { [ will_throw()... ]
+}
+catch const e {
+ # e.tthrow+1a.le
+throw""}
+
+}
+a = [ will_throw() ]
+}
+catch const e {
++1a.le
+throw""}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{6}

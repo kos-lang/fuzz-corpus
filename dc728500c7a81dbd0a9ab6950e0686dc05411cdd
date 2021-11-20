@@ -1,0 +1,33 @@
+fun will_throw
+{
+ var a   = void
+var exc = void
+try {   a = [ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+    [2, 3,].sre= [ will_throw()... ]
+}
+catch const e {
+e.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8
+->w=>g=>w=>g=>www=>gw=>ww=>w=>0
+8
+->w=>g=>ww=>gw=>W=>ww=>g=>w=>gw=>w=>ww>ww=>ww_=>gww=>ww=>9
+0>w=>g=>ww=>g=>ww=>gw=>yw_=>g=>w=>0
+8
+->w=>pv=>
+8
+defer{classr{}}

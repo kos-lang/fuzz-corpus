@@ -1,0 +1,4 @@
+yield
+async+4->8
+yield
+async+8->0

@@ -1,0 +1,31 @@
+fun will_throw
+{
+  var a   = void
+try {   a = [will_throw()... ]
+}
+catch const e {fun will_throw
+{
+try { }
+catch const e {try {   a = [will_throw ]
+}
+catch const e {fun will_throw
+{
+ void
+try {   a = [will_throw()]
+}
+catch const e {
+}
+repeat{repeat{repeat{return}while+3}while+2}while
+ "==g߁end"
+}
+
+}
+}
+repeat{repeat{repeat{return}while+2}while+2}while
+ "g߁end"[0:]}
+
+}
+repeat{repeat{repeat{return}while+2}while+2}while
+ ""[0:].ulue
+}
+w=>w

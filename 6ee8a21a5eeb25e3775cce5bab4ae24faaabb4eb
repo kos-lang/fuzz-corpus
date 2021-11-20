@@ -1,0 +1,13 @@
+switch!4{case-6,5{ throw"}01"}}fun will_throw
+{
+try {}
+catch const e {-0.50*++e
+}
+}
+var a   = void
+var exc = void
+try {}
+catch const e {
+ e
+}!
+a

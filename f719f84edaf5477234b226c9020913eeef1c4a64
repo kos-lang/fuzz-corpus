@@ -1,0 +1,24 @@
+fun will_throw
+{
+  var a   = void
+var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e {
+  0xc ^delete e.vqv
+delete[!delete[delete[delete[delete[delete[delete[delete[!delete[delete[!delete[delete[delete[delete[delete[[!4].M].M].t].N].M].M].M1].M].M].M].M5].M].M].M].M1].M}
+
+try {
+
+}
+catch const e {
+} yield 18
+}
+void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+#assexc

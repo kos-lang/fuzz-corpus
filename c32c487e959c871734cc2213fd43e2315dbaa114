@@ -1,0 +1,4 @@
+try{const str = false
+try{try{ try {"\(str)"}catch const e{}}
+catch const e {}}
+catch const e{}}catch const e{}

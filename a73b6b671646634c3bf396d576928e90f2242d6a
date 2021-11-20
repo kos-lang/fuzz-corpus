@@ -1,0 +1,29 @@
+fun will_throw
+{
+try {
+ [ will_throw()... ]
+}
+catch const e {
+ 
+}
+
+try {
+ [ will_throw()... ]
+}
+catch const e {
+ 
+delete[!delete[delete[delete[delete[delete[].M<<5].M].M].M].M1].M}
+
+try {
+}
+catch const e {
+} yield 18
+}
+var a   = void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+assert exc

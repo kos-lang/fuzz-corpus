@@ -1,0 +1,1 @@
+while[(X,XX=false)=>X][(XX,X=false)=>XX:(XX,X=false)=>XX][(XX,P=false)=>XX]{}

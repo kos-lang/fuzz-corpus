@@ -1,0 +1,1 @@
+public fun range{ }for const x in range(1,5,5E555){}

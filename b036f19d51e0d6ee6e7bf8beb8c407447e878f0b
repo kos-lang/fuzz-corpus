@@ -1,0 +1,4 @@
+import re.re
+re("\\W\\dd\dc")
+re("\\W*c")
+re("\W\\\\ddc")

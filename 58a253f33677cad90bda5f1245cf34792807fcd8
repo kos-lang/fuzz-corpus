@@ -1,0 +1,2 @@
+try{const st=false
+try{}catch const e{}"\(st)"}catch const u{}

@@ -1,0 +1,10 @@
+assert "\11".rs
+8
+->w=>g=>w>ge=>gw=>wu_=>w=>w=>w=>gw=>w=>wg2ww=>ww=>v=>v=>gw=>gw=>w_=>gw=>w=>ww=>g=>gw=>ww_=>w=>w=>w=>gw=>w=>ww=>gpg=>Gw=>w=>ww=>ww_lsew_=>g>w_=>gw=>w=>ww=>v=>v=>g>wg=>ww=>0
+8
+->w=>g=>w=>h=>ww_=>gw_=>gw=>w=>ww=>v=>v=>gt=>cw=>w_=>gw=>w=>www_=>w=>ww=>v=>v=>gw=>gw=>w_=>gw=>w=>ww=>w_=>w=>w=>g=>gww_=>w=>w=>w=>gw=>w=>w_=>gw=>w=>ww=>gpgp=>ww_=>gw_=>g5ww=>ww=>v=>v=>gw=>gw=>we=>gw=>w=>w=>g=>gw=>ww_=>w=>w=>w=>gw=>w=>ww=>gpg=>gw=>w=>w_=>gw=>w=>ww=>gpg=>w=>ww=>2>w=>g=>w0=>gw=>wwO=>g>w=>g=>wwgw=>W=>ww
+8
+->w=>g=>w=>g=>ww=>gw=>ww_=>gw_=>gw=>w=>ww=>v=>v=>gw=>gw=>w_u=>priifw=>ww_=>gw_=>gw=>wv=>v=>gw=>gw=>w_=>gw=>w=>ww=>w=>_w=>w=>g=>gw=>wu_=>w=>w=>w=>gw=>w=>wg2ww=>ww=>v=>v=>gw=>gw=>w_=>gw=>w=>ww=>g=>gw=>ww_=>w=>w=>w=>gw=>w=>ww=>gpg=>Gw=>w=>ww=>ww_=>gw=>w=>wwpg=>w=>ww=>1>w=>w=>w=>gw=>ww_=>g=>gw=>wW_=>w=>w=>wwg=>gw=>w=>gp=>gv=>w=>ww=>0
+8
+->w=>g=>ww=>gw=>www=>g=>3
+assert "\x{01}".s.PP

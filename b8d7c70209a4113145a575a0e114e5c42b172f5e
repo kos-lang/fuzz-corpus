@@ -1,0 +1,21 @@
+fun will_throw
+{
+ 
+try {   [ will_throw() ]
+}
+catch const e {e.value
+}
+
+
+try {
+[3, 3, 1].sr = [ will_throw()... ]
+}
+catch const e {
+ true.le
+}
+
+}
+var a = void
+try {a = [will_throw()]
+}
+catch const e{2}

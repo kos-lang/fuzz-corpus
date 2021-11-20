@@ -1,0 +1,13 @@
+public fun range { }
+for const x in range{
+for const x in range(x...,22,3) {
+}
+}
+for const x  in range{
+for const x in range(x...,3) {
+}
+
+for const x in range(x...,3) {
+}
+for const x in range(x...,3) {
+}}

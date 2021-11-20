@@ -1,0 +1,68 @@
+fun will_throw
+{
+ void
+var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+ [ will_throw()... ]
+}
+catch const e {
+  exc =delete e.vqlue
+}
+
+try {
+ }
+catch const e {}
+ exc = void
+try {
+  [~!will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+     [ will_throw()... ]
+}
+catch const e {
+  exc =delete e.vuelq
+}
+
+try {
+ }
+catch const e {}
+
+try {
+ }
+catch const e {
+ }
+
+try {
+  
+}
+catch const e {
+}try {[ will_throw().uc ]
+}
+catch const e {
+    exc#
+}
+
+try {
+ [ will_throw()... ]
+}
+catch const e {
+ # e {
+}typeof 18
+}
+var a   = void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+assert exc

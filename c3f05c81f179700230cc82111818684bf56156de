@@ -1,0 +1,243 @@
+fun make_it(z)
+{ var a = 101
+    fun inner(y)
+    {
+var b = 102
+fun make_it(z)
+{
+    var a = 101
+    fun inner(y)
+    {
+        var b = 102
+    fun make_it(z)
+{ var a = 101
+    fun inner(y)
+    {
+var b = 102
+    fun make_it(z)
+{
+    var a = 101
+    fun inner(y)
+    {
+        var b = 102
+        class Base
+        {
+          }
+        class Derived extends Base
+        {
+         e  {
+      class Derived extends Base
+        {
+         constructor(x)          {
+                super()
+     }
+   e_it(z)
+{
+  fun inner(y)
+    {
+        fun make_it(z)
+{
+    var a = 101
+    fun inner(y)
+    {102
+          class Derived extends Base
+        {
+         er(y)
+    {
+      class Derived extends Base
+        {
+            constructor(x)          {
+                super()
+         this.apush
+    }
+        }
+        return Derived(y)
+    }
+    constructor(x)
+            {
+                super()
+         this.apus
+    }
+        }Derived(y)
+    }
+    return inner(z)
+}
+const o = make_it(30)
+assert o.a == 13103
+   class Derived extends Base
+        {
+        er(supey)
+    {
+    class Derived extends Base
+        {
+            constructor(x)
+         {
+                super()
+         this.apush
+    }
+        }
+        return Derived(y)
+    }
+    constructor(x)
+            {
+                super()
+   }
+        }
+        return Derived  }
+    return inner(z)
+}
+     }
+        return Derived(y)
+    }
+    constructor(x)
+            {
+                super()
+     
+}
+        }
+        return Derived(y)
+    }
+    return inner(z)
+}
+const o = make_it(30)
+ 13103
+class Base
+        {
+     }class Derived extends Base
+        {
+        er(supey)
+    {
+ var b = 204
+   class Derived extends Base
+        {
+            constructor(x)
+         {
+                super()
+       this.a
+    }
+        }
+        return Derived(y)
+    }
+    constructor(x)
+            {
+                super()
+   }
+        }
+        return Derived(y)
+    }
+ return inner(z)
+}
+const o = make_it(60)
+    class Base
+        {
+          }
+        class Derived extends Base
+        {
+         er(y)
+    {
+      class Derived extends Base
+        {
+            constructor(x)          {
+                super()
+         this.apush
+    }
+   e_it(z)
+{
+  fun inner(y)
+    {
+        fun make_it(z)
+{
+    var a = 101
+    fun inner(y)
+    {102
+          class Derived extends Base
+        {
+         er(y)
+    {
+      class Derived extends Base
+        {
+            constructor(x)          {
+                super()
+  this.apush
+    }
+        }
+        return Derived(y)
+    }
+    constructor(x)
+            {
+                super()
+     this.apus
+    }
+        }        return Derived(y)
+    }
+    return inner(z)
+}
+const o = make_it(30)
+assert o.a == 13103
+{
+    }
+        class Derived extends Base
+        {
+        er(supey)
+    {
+        var b = 102
+   class Derived extends Base
+        {
+            constructor(x)
+         {
+                super()
+   }}
+        return Derived(y)
+    }
+    constructor(x)
+            {
+                super()
+   }
+        }
+        return Derived(y)
+    }
+    return inner(z)
+}
+     }
+        return Derived(y)
+    }
+    constructor(x)    {
+                super()
+     
+}
+        }
+        return Derived(y)
+    }
+    return inner(z)
+}
+const o = make_it(30)
+assert o.a == 13103
+class Base
+        {
+                }
+        class Derived extends Base
+        {
+        er(supey)
+    {
+ var b = 408
+   class Derived extends Base
+        {
+            constructor(x)
+         {
+                super()
+         this.a
+    }
+        }
+        return Derived(y)
+    }
+    constructor(x)
+            {
+                super()
+   }
+        }
+        return Derived(y)
+    }
+ return inner(z)
+}
+const o = make_it(60)
+3

@@ -1,0 +1,9 @@
+fun will_throw
+{yield 18
+}
+//r 
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}

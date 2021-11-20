@@ -1,0 +1,23 @@
+fun will_throw
+{
+ var a= void
+try {   a = [ will_throw[""[5]:]()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+   [ 3, 3, 1].sers = [ will_throw()... ]
+ with-0,5,6,6{} [ ]
+}
+catch const e {
+ }
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a

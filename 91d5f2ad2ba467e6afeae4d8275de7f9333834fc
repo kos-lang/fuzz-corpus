@@ -1,0 +1,28 @@
+publicfun will_throw
+{
+ var a   = void
+var exc = void
+try {   a = [ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+  [4, 3, 1].sregrs = [ will_throw()... ]
+}
+catch const e {
+  e.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8
+->integerw=>G=>w=>g=>www=>gw=>ww=>w=>0
+>w>=ww=>g=>wnameg=>ww=>w_=>gw=>w=>w=>ww=>g=>jt=>w=>w=>pv=>
+8

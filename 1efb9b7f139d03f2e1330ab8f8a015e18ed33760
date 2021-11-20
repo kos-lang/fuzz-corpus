@@ -1,0 +1,31 @@
+fun will_throw
+{
+  var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e {
+ }
+""[~0]/=1
+1[0]/=2
+try {}
+catch const e {
+} yield 18
+}
+var a   = void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+
+try {[ will_throw()...]
+.ca 
+}
+catch const e {}
+
+try { a = [ will_throw()... ]
+}
+catch const e {
+}}
+assert exc

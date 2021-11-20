@@ -1,0 +1,2 @@
+import re.re
+re("\\\\\\\\rscan\b re\bo\boolean\\b\\bc\\\\oolean\\b\\bc\\\\\bostringifyn\\b\\\boolean\\b\\bc\\\\\b\\\\\\\\\b re.rbonamen\\b\\bc\superool\bo7ea\\\b\\bc\oolean\bc\bool\;o7ean\\b\\\b+oolean\\b\\bc\\\ool\bo7ea\\bc\\\\\boolbc")

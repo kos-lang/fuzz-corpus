@@ -1,0 +1,41 @@
+fun will_throw
+{
+  var a   = void
+var exc = void
+try {
+  [ will_throw()... ]
+}
+catch const e {
+  exc =delete e.vaue
+}
+
+try {
+ }
+catch const e { exc * e.value
+}
+
+try {
+   a = [ will_throw()... ]
+}
+catch const e {}
+
+try {
+ }
+catch const e {
+ }
+//[O[0
+0[0]
+=1
+1[0]/ 18
+}
+var a   = void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+assert exc
+defer{defer{defer{defer{defer{defer{defer{""propertyof-4}return}return}return}return}return}return}fw=>Www=>0
+8
+->w=>ww_n=>gw=>w=>wg=>w=>w1=>g=>ww=>gg=>ww_=>gw/*=>w{=>w}w=>g

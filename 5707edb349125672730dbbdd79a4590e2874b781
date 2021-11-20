@@ -1,0 +1,5 @@
+const obj ={or:{  }
+}
+for const v in " gnd" {
+for const v in obj {for const v in obj {}
+}}

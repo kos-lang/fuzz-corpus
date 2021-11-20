@@ -1,0 +1,10 @@
+
+defer{classextends3{r{super}}-
+8
+defer{classextends2{r{super}}-
+{}}classextends2{r{super}}-8
+defer{classextends1{r{super}}-
+5}classextends3{r{super}}-
+5;defer{classextends2{r{super}}%class{}}classextends1{r{super}}-6
+defer{classextends2{r{super}}-
+5}}

@@ -1,0 +1,4 @@
+defer{defer{defer{defer{defer{defer{defer{0[0]=0x2
+1[0]=0x1
+1[0]=0x2
+0[0]=0x1}return}}return}return}}return}return

@@ -1,0 +1,7 @@
+public fun ranje{ }
+for const x in ranje(){
+}for const x in ranje() {
+}
+for const x in ranje(1){
+}for const x in ranje() {
+}

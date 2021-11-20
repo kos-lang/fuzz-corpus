@@ -1,0 +1,22 @@
+fun will_throw
+{
+ var a   = void
+try { a = [ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+    [ will_throw()... ]
+}
+catch const e {vara=70777.77778a&=11-1e30
+2%3<77.7.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}

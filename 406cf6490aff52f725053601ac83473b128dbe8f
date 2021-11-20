@@ -1,0 +1,5 @@
+fun(z)
+{fun inner{
+class Base{}class Derived extends Base{constructor{super()
+super()
+super() }} Derived()}inner(z)}

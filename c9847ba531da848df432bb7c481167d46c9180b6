@@ -1,0 +1,4 @@
+import re.re
+
+return
+re("$.*").find("a3}c")

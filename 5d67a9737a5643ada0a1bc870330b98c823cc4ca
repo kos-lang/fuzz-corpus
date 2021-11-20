@@ -1,0 +1,16 @@
+fun make_it(z)
+{   fun inner(y)
+{
+  fun make_it(z)
+{
+
+  
+ inner(z)
+}
+const o = make_it(29)
+3103
+class Base
+        {   }    }
+    return inner(z)
+}make_it(98)
+3

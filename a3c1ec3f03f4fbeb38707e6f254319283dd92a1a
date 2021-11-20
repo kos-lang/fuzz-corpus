@@ -1,0 +1,31 @@
+
+try {try {try {
+  for var x,z in [1]{}
+}
+catch const e {
+}
+var fd = true
+try {try {{
+}
+for var x,z in [ 3,] {}
+}
+catch const e {
+false
+} true
+try { for var  x, yz in [ 1] {}
+}
+catch const e{
+false
+}
+
+}
+catch const e {
+false
+}}
+catch const e{
+}
+
+}
+catch const e {
+false
+}

@@ -1,0 +1,13 @@
+fun will_throw
+{
+try {
+ [ 0.3+will_throw()... ]
+""}
+catch const e {
+}#9
+}
+try {[ will_throw()... ]
+}
+catch const e {
+}
+#assertc

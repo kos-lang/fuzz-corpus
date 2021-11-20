@@ -1,0 +1,3 @@
+defer{defer{defer{defer{defer{class Base {
+}class Final extends Base{constructor{ super() }
+}Final(0)}return}}return}}return;

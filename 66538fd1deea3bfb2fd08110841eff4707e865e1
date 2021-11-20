@@ -1,0 +1,5 @@
+const obj ={or: fun{ 0}
+}
+for const v in " gen333133333333" {
+for const v in obj {for const vv in obj{for const v in v{}}
+}}

@@ -1,0 +1,20 @@
+fun will_throw
+{
+ var a = void
+try {   a = [ -will_throw()... ]
+}
+catch const e {e
+}
+
+
+try {
+    [3, 3< 1].isters = [ will_throw()... ]
+}
+catch const e {vara=73777.77778a>>>=2%3<57.77}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}

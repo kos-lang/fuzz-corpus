@@ -1,0 +1,17 @@
+fun will_throw
+{
+  var a  = void
+try {
+    a = [ will_throw()... ]
+}
+catch const e{
+ # {
+class sortable {   const { const b = a.sor}
+}
+const a = [ sortable(420),(10),async sortable(50)  ]  .a
+}assert""
+}
+var a =void
+try {[ will_throw()... ]
+}catch const e {}
+a

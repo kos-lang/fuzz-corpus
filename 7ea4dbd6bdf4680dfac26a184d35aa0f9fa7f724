@@ -1,0 +1,18 @@
+fun will_throw
+{var a   =  void
+try {   [ will_throw()... ]
+}
+catch const e { void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+28a|=e
+}
+
+}
+var a = vo=>ww=>w=>g=>ww
+try {a = [will_throw()... ]
+}
+catch const efer{1}

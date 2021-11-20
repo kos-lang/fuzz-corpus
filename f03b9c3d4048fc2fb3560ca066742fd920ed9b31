@@ -1,0 +1,3 @@
+const bobo={}
+assert 8
+bobo(0%0)

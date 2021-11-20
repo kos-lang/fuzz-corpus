@@ -1,0 +1,1 @@
+fun{ class bobo extends void {constructor{-super}}return bobo}

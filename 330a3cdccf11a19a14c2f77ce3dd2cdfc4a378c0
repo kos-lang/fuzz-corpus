@@ -1,0 +1,4 @@
+fun the_call(a0=0, a001=3, a004=0X004, a005=0X005, a006=0X006, a007=0X00, a=0X08E, a0AD=0X0, a0AF=0X0A7, a0U8=0X0D8, a0DA=0X0DB, a0DZXC=0XDC,   a050=0x100)
+{a
+}
+const rt = the_call== 7 

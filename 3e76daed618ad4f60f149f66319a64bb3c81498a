@@ -1,0 +1,13 @@
+import re.re
+
+re("\\W\\\\\\\\\\\\W\\\\\\\\\ddc")
+re("\\W\\\\\ddddddddd\ddc")
+re("\\W\\\\\W\d\ddc\\\W\\\\\dd:ddc")
+re("\\W\\\\\\\\\breafallthrough*\\]dddd||ddd\ddc")
+re("\\W\\\\\\ddc")
+re("\\W\\\\\\W\\\\\dd:ddc")
+re("\\W\\\\\\\\\\\\d\ddc")
+re("\\W\\dddd\W\\\\\\W\\\\\dd:ddc")
+re("\\W\d\ddc")
+re("\\W\\\\ddc")
+re("\\W\d|\\\\\\\\ddc\\\\\\\\\\\\\|ddd\ddc")

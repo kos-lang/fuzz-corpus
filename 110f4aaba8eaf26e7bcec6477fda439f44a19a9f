@@ -1,0 +1,2 @@
+const obj={}
+for const v in obj{for const L in obj{}}

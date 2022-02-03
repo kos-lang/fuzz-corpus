@@ -1,0 +1,11 @@
+import re.re
+
+re("\\W\\\\\\\\dc")
+re("\\W\\\d||ddd\ddc")
+re("\\W\\\\\\ddc")
+re("\d:ddc")
+re("\\W\\\\\\\\\\\\d\ddc")
+re("\\W\\dddc")
+re("\\W\d\ddc")
+re("\\W\\\\ddc")
+re("\\W\d|\\\\\\\\ddc\\\\\\|dd\ddc")

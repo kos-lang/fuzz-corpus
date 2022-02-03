@@ -1,3 +1,0 @@
-const obj={}
-for const v in " gen"{
-for const v  in v{for const vv in obj {}}}

@@ -1,0 +1,7 @@
+fun (z)
+{  fun innr{defer{defer{defer{;defer{defer{defer{ switch!class
+{  fun innerefer{defer{ defer{defer{defer{defer{;defer{defer{defer{ switch!class Base {  }class Derived extends Base
+ { constructor{defer>>treturn}ret
+}
+   inner(z)
+}<<=

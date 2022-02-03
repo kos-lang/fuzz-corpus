@@ -1,0 +1,8 @@
+import re.re
+
+re("\\W\\\\\\\b\\dd\ddc")
+re("\\dd\ddc\\\\\\\\\ddcZ\\\\\\\\\\ddd\ddc\\dd\ddc\\\\\\\\b\\dd\ddc")
+re("\\dd\dd^=\\\\\\\\ddcZ\\\\\\\\\\ddd\ddc\\dd\ddc\\\\\\\\\ddcZ\\\\\\\\\\ddd\ddcW\\\\\\dddddd\ddc")
+re("#$\ddc\\\\\\\\\\\\\ddd\\\*\\]W\ddd\\\ddcZ\\\\\\\\\\ddd\ddcW\\\\\\dddddd\ddc")
+re("#$\ddc\\\\\\\\\\\\\ddd\\\*\\]W\dddddd\dW\dddddd\ddc")
+re("d$\ddc\\\\\\\\\\\\\ddd\\\*\\]W\\\\\\\|ddd\ddc")

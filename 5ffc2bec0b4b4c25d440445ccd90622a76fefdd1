@@ -1,18 +1,0 @@
-fun will_throw
-{ void
-try {
-  [ will_throw()... ]
-}
-catch const e {
- 0%++++e
-e.val
-} #ie8
-}
-void
-var exc = void
-try {[ will_throw()... ]
-}
-catch const e {
- e
-}
-

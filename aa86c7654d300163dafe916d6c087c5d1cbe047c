@@ -1,0 +1,8 @@
+import re.re
+
+re("\\W\\\\\\\\\\\\d\ddc")
+re("\\W\\\dd\\\"\\W\\\\\dd\\\]ddd\dd\\]d?d\\\"\\W\\\ddl\\\"\\W\\\\\dd\\\]ddd\ddc")
+re("\\W\\\\\\W\\\\\dd:dddd\\\"\\dd\\\"\\W\\\\\dd\\\]ddd\dd\\]d?d\\\"\\W\\\ddl\\\"dd\\\"\\W\\\\\\W\\dddd\\\"\\dd\\\"\\W\\\\\dd\\\]ddd\dd\\]d?d\\\"\\W\\\ddl\\\"dd\\\"\\W\\\\\\W\\\\\dd\dda")
+re("\\\\\\\\\d|\\\\\ddd\\\"\\W\\\\\dd\\\]ddd\dd\\]d?d\\\"\\W\\\ddl\\\"\\W\\\\\d\dd\\\]dd\\\\Td\\\\\\\\d|\\\\\ddd\\\"\\W\\\\\dd\\\]dd\\\\\d|\\\dd\\\"\\W\\\\]dd\\\T\d|\\\\\ddd\\\"\\W\\\\\dd\\\]ddd\dd\\]d?d\\\"\\W\\\ddl\\\"\\W\\\\\d\\\d|\\\\\ddd\\\"\\W\\\\\dd\\\]dd\\\\\d|\\\\\ddd\\\"\\W\\\\\dd\\\]ddd\dd\\]d?d\\\"-\\W\\\ddl\\\"dd\\\"\\W\\\\\\W\\\\\dd\d@a")
+re("\\\\\\\\\d|\\\\\ddd\\\"\\W\\\\\dd\\\]ddd\dd\\]d?d\\\"\\W\\\ddl\\\"\\W\\d\dd\\]d?d\\\"\\W\\\ddl\\\"\\W\\\\\dd\\\]ddd\ddc")
+re("\\W\\\\\\W\\\\\dd:dddd\\\"\\W\\\\\dd\\\]dd\\\\TddW\d|")

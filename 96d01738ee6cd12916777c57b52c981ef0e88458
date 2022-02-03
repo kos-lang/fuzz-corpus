@@ -1,0 +1,5 @@
+fun r{
+  class De extends Base
+{
+   fun conor  {
+   super(

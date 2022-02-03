@@ -1,2 +1,0 @@
-import re.re
-re("X{050}n{1}sh{9?")

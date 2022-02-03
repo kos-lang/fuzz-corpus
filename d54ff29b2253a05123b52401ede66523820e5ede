@@ -1,29 +1,0 @@
-publicfun will_throw
-{
- var a= void
-try {   a = [ will_throw()... ]
-}
-catch const e {e.value
-}
-
-
-try {
- [ will_throw()... ]
-}
-catch const e {
-  e.a.le
-}
-
-}
-var a = void
-try {a = [will_throw()... ]
-}
-catch const e{e
-}
-a=
-8
-->w=>g=>w=>g=>www=>gwg=>ww=>g=>ww=>gw=>ws_=>gt=>w=>0
-8
-->w=>pv=>
-8
-defer{classe{}}

@@ -1,25 +1,0 @@
-fun will_throw
-{
- var a   = void
-var exc = void
-try {  [3, 3, 1].srewisters
-}
-catch const e {a*77a&=17.2%5.
-  e.a.le
-}
-
-}
-var a = void
-try {[will_throw()... ]
-}
-catch const e{e
-}
-a=
-4
-try {a = [will_throw()... ]
-}
-catch const e{e
-}try {a = [will_throw()... ]
-}
-catch const e{e
-}

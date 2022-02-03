@@ -1,16 +1,0 @@
-defer{;defer{90;defer{;defer{defer{;class Base {
-}
-class Final extends Base { constructor{
- 
-super() }
-}
-3;defer{;defer{89;defer{defer{defer{;class Final extends Base {constructor(m) { super() }
-}
- Final(20)}return}}return}2}return Final}}}return}2};defer{;defer{90;defer{defer{defer{;class Base {
-an{ }
-}
-class Final extends Base { constructor{super() }
-}
-1;defer{;defer{89;defer{defer{defer{;class Final extends Base {constructor() { super() }
-}
- Final(20)}return}}}2}return Final}}}return}2};

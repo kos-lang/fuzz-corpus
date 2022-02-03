@@ -1,0 +1,10 @@
+while{}{defer{defer{const a=[]
+const b=[]
+b<a
+b!=a
+b==a
+a!=b
+a==a
+a!=b
+a==b
+a!=b}return}break}

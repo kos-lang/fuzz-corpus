@@ -1,0 +1,5 @@
+while{}{defer{}vara=5
+defer{
+defer{}
+defer{}defer{}
+defer{}defer{};defer{}defer{}vara=5}}

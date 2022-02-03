@@ -1,0 +1,16 @@
+assert "\x01\x01\x100}\x01".scan("\x{100}\x{100}") == 4
+assert "\x0101\x{100}\x01".rscan("\x{100}\x{100}\x01\x01\x01") == 3
+assert "\x{1100}\x00}".rscan("\x01\x01\u01\x01") == 3
+assert "\0101\x{100}\x01\x01\x01\x01\x0100}\x01".rscan("\x01\x01\\x01") == 3
+assert "\x{101}\x{101}\x010}".rscan("\x00\x01\x01") == 3
+assert "\1}\x{101}\x01\x{101}".sca("n\x01\x01\x01") == 3
+assert "x01\x{100}\x01".cnas("\x{734}\z{100}\x{100}") == 4
+assert "\x01\1\x01\x01\x{100}\x01".rscan("\x10C0}\x{100}") == 4
+assert "\x{101}x01".scan("z100}") == 3
+assert "\x01\x01\x01\x01\x{100}\x00".rscan("\}\x{100}")== 4
+assert "0}\x01x}\x10}\/{100}".rscan("\x01\y01\x01") == 3
+assert "\x{101}\x{101}\x{101}\x010}".rscan("\x01\x01") == 3
+assert "\x{1011}\x01\x{101}".scan("\x01\x01\x01") == 3
+assert "\x01\x01\x01\x01\x{100}\x01".scan("\x100}") == 4
+assert "\x01\x01\1".rscan("\n{100}\x100}\x{100}") == 4
+assert "\x01\{xYx{101}".rscan("\x01publrc\x01\x01") == 2

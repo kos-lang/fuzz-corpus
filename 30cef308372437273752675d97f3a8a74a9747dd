@@ -1,0 +1,25 @@
+fun will_throw
+{
+ var a= void
+try { a = [ will_throw()... ]
+}
+catch const e {
+}
+
+
+try { [3].ss = [will_throw()... ]
+}
+catch const e {
+ true.le
+}}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8
+->w=>g=>w=>g=>www=>gw=>ww=>Wg=>ww=>w=>w=>ww=>g=>w=>0
+8
+->w=>pv=>
+8

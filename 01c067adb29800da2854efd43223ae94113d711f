@@ -1,0 +1,6 @@
+import re.re
+
+re("\\W\\\\\\\\\\\\d\ddd:dddd\\\"\\W\\\\\ddc")
+re("\\Wd?d\\\"\\W\\\ddl'\\\"\\W\\\\\\W\\\\\\W\\\]\d\"\\W\\\ddl\\\"\\Wddc")
+re("\\W\\\\\\W\\W\\\\\\ddc")
+re("\\Wd?d\\\"~\\W\\\ddl\\\"\\W\\d\\\"\\W\\\\\\TddW\d|")

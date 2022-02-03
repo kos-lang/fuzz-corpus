@@ -1,0 +1,3 @@
+const bo={}
+assert 8
+bo(0%0)

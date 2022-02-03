@@ -1,0 +1,1 @@
+fun t{fun the_call(a=1){the_call==a}}

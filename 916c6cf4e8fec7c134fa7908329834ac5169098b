@@ -1,0 +1,48 @@
+fun will_throw
+{
+ var a   =  void
+try {  a
+}
+catch const e {e.va
+}
+
+try {
+    [3, 3, 1].supp
+}
+catch const e {
+  e.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8
+->w=>gbuffer=>w=>g=>w
+8
+->w=>g=>ww=>ww_=>gw=>w=>ww=>ww_=>gww=>ww=>8
+0>w=>g=>ww=>g=>ww=>w=>w=>Ww=>g=>www=>ww_=>gw=>w=>ww=>gw=>W=>ww=>w=>g=>w
+7
+->w=>g=>ww=>ww_=>gw=>w=>ww=>ww_=>gww=>ww=>9
+0>w=>g=>vw=>g=>ww=>gw=>g=>ww=>gw=>W=>ww=>g=>w=>gw=>w=>W=>w=>ww=>gw=>W=>ww=>w=>g=>w>w=>g=>ww=>ww_=>gw=>w=>ww=>0
+8
+->w=>g=>gw=>0
+8>g=>ww=>gw=>ww_=>gw=>w=>ww=>v=>gpv=>gw>ww=>0
+8
+->w=>g=>gw=>0
+8>g=>ww=>gw=>ww_=>gw=>w=>ww=>vww_=>gw=>w=>ww=>v=>gpv=>gw=>gw=>ww=>g=>w=>ww=>w>w=>ww=>gw=>w=>w=>ww=>gpv=>gpv=>gw=>gw=>ww=>ww=>w=>g=>ww=>gw=>ww_=>gw=>w=>ww=>gw=>W=>ww=>w=>g=>w>w=>g=>ww=>w=>gw=>w=>ww=>v=>gpv=>gw=>gw=>ww=>g=>w=>ww=>w>w=>ww=>gw=>w=>w=>wpgpv=>gpv=>gwww=>ww=>w=>g=>ww=>gw=>ww_=>gw=>w=>ww=>gw=>W=>ww=>w=>g=>w>w=>g=>ww=>ww_=>gw=>w=>ww=>0
+8
+->w=>g=>gw=>0
+8>g=>ww=>gw=>ww_=>gw=>w=>ww=>v=>gpv=>gw=>gw=>w>=ww=>gw=>ww=>w>w=>ww=>gw=>W=>ww=>w=>g=>w>w=>g=>ww=>ww_=>gw=>w=>ww=>0
+8
+->w=>g=>gw=>0
+8>g=>ww=>gw=>ww_=>gw=>w=>ww=>gpgpv=>gw=>g=>ww_=>gw=>w=>ww=>w=>pgpv=>pv=>
+4
+defer{classr{}vara=2}with-55{}switch""in[]{}w=>
+2
+defer{classe{}vara=25
+8
+}switch""in[]{}while""in[]{}

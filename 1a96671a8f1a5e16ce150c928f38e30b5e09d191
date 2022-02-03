@@ -1,19 +1,0 @@
-fun will_throw
-{
- var a= void
-try {   a!= [ will_throw()... ]
-}
-catch const e {e.value
-}
-
-
-try {  a = [ will_throw()... ]
-}
-catch const e {
- #.tthrow+1a.le
-throw""}
-}
-var a = void
-try {a = [will_throw()... ]
-}
-catch const e{}

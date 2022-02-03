@@ -1,33 +1,0 @@
-fun make_it(z)
-{fun inner(y)  {   class Base
-   {
-    }
-  class Derived extends Base
- {
-    constructor  {
-super()
-    super()
-  super()
-super()
- super()
-   super()
- super()
- super()
- super()
-    super()
-     super()
-    super()
-     vara=8 super()
-  super()
- super()
-      super()
-super()
-  super()
-     super()
-  super()
- super()
-     super()}   }
-   Derived(y)
-    }
- return inner(z)
-} make_it(43)

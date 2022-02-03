@@ -1,0 +1,35 @@
+fun will_throw
+{
+ var a   = void
+var e= void
+try {   a < [ will_throw()... ]
+}
+catch const e {e.value
+1.>0.
+0.>0.
+0.>0.
+0.>5.
+0.>0.
+0.>0.
+0.>0.
+0.>0.
+0.>0.
+0.>0.
+0.>0.
+0.>0.
+0.}
+
+
+try{
+[3, 1].srs = [ will_throw()... ]
+}
+catch const e { 
+e .a.le
+}
+
+}var a = void
+try {a = [will_throw()]
+}
+catch const e{e
+}
+a=6

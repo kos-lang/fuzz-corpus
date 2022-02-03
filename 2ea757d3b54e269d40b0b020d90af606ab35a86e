@@ -1,37 +1,0 @@
-fun will_throw
-{
-  var a   = void
-var exc = void
-try {
-}
-catch const e { e
-}
-
-try {
- [ will_throw()... ]
-}
-catch const e {
- 
-delete[].M}
-
-try {  [ will_throw()... ]
-""}
-catch const e { e
-}
-
-try {
- vara=5;defer{defer{}defer{defer{[1<9&&0][-[6999e9][1<9&&[17&&0][3<9&&0]]++9]&&1}returna}returna}return[ will_throw()... ]
-}
-catch const e {
- 
-delete[!delete[delete[delete[delete[delete[dele=>[delete[!delete[delete[!delete[delete[delete[delete[delete[delete[!4].M].M].t].N].M].M].M1].M].M].M].M5].M].M].M].M1].M}
-
-}
-var a   = void
-var exc = void
-try {[ will_throw()... ]
-}
-catch const e {
- e
-}
-assert exc

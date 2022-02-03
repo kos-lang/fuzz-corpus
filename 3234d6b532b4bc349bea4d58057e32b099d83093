@@ -1,0 +1,2 @@
+defer{defer{defer{defer{defer{class Base {
+}class Final extends Base{}Final(1)}return}}return}}return;

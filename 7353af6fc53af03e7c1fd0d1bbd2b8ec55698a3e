@@ -1,0 +1,5 @@
+fun will_throw
+{
+  var  exc =  yield 44444444444444444417
+}
+#c

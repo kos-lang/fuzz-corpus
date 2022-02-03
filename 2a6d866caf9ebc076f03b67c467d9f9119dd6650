@@ -1,2 +1,0 @@
-import re.re
-re(".{101}?|").find("aunesh}c")

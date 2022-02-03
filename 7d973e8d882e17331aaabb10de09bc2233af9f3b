@@ -1,23 +1,0 @@
-
-8
-defer{
-8
-}fun will_throw{
-  var a  = void
-try { a = [ will_throw()... ]
-}
-catch const e{
- #{
-class sortable {   const { 20
-}
-}
-[ sortable(840),1]   .a
-}a
-}
-var a =void
-try {
-[ will_throw()... ]
-}catch const e {
-   e.viv
-}
-a

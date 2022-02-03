@@ -1,0 +1,69 @@
+var ed = true
+try {try {try {
+  for var x,z in [ ] {}
+}
+catch const e {
+}
+for var x,z in [ 3,[4] ] {}
+}
+catch const e {
+false
+}
+   true
+try { for var x, y, z in [ [2,] ] {}
+}
+catch const e {}
+for var al in [ [2,3] ] {}try {try {try {
+    for var x,z in [0] {}
+}
+catch const e {
+
+}
+for var x, z in![ 1] {}  for var xy, z in [] {}
+}
+catch const e {
+e
+}
+var failed = true
+try {try {try {
+  
+}
+catch const e {
+}
+for var x,z in [ 3,] {}
+}
+catch const e {
+false
+} true
+try { for var x, y, z in [ [2,] ] {}
+}
+catch const e {}
+failed = true
+try {try {try {for var x, y, z in [0] {}
+}
+catch const e {
+
+}
+for var x, z in![ 1] {}  for var xy, z in [] {}
+}
+catch const e {
+e
+}{}
+}
+catch const e{
+false
+}
+
+}
+catch const e {
+false
+}
+for var x, yz in [ ] {}
+}
+catch const e{
+}
+
+}
+catch const e {
+false
+}

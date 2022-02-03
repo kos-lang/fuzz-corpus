@@ -1,5 +1,0 @@
-const obj={or: fun{}
-}
-for const v in " gen333d" {
-for const v in obj {for const v in obj{for const v in v{}}
-}}

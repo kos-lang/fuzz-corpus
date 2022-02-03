@@ -1,14 +1,0 @@
-fun will_throw
-{
-try {
-  [ will_throw()...]
-""}
-catch const e {~ e
-}
-
- yield 18
-}
-try {[ will_throw()... ]
-}
-catch const e {
-delete e.vql}

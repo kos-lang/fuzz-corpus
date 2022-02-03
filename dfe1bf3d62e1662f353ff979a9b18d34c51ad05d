@@ -1,11 +1,0 @@
-switch!4{case-5:{fallthrough}case-62{1}}fun will_throw
-{
-  var a   = void
-var exc = void
-
-}var exc = void
-try {[ will_throw()... ]
-}
-catch const e {
- e
-}with-5,0,2,0,0,0,4%0,5{}

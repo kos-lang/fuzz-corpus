@@ -1,0 +1,10 @@
+fun (source)
+{
+for var elem in source {fun mul_3ce{
+  fun add_5(e){
+for elem in source {}5()
+}
+1
+}}
+//}
+}

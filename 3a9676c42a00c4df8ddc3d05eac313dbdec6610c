@@ -1,0 +1,20 @@
+fun will_throw
+{
+
+
+try {[1, 3< 1].ss
+}
+catch const e {vara=39a>>>=11e302}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=>ww=>9
+void
+try {[will_throw()... ]
+}
+catch const e{e
+5}

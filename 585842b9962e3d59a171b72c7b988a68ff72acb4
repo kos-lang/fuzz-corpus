@@ -1,42 +1,0 @@
-importre:refun will_throw
-{
- var a   = void
-var exc = void
-try { [ will_throw()... ]
-}
-catch const e {e.value
-}
-
-
-try { [].resr = [ will_throw()... ]
-}
-catch const e {
- re.a.le
-}
-
-}
-var a = void
-try {a = [will_throw()... ]
-}
-catch const e{e
-}
-a=
-8
-->w=>g=>w=>g=>www=>gw=>ww=>w=>0
-8
-->w=>g=>ww=>gw=>W=>ww=>g=>
-0>w=>g=>ww=>g=>ww=>w== "v"
->g=>w=>g=>ww=>wwT=>g=>rw=>gw=>ww_=>gw=>w=>wyiww=>gw=>W=>ww=>w=>g=>w
-8
-->w=>re>ww=>ww_=>gw=>ww=>ww_=>gw=>w=>ww=>ww_=>w=>ww=>ww_=>gww=>ww=>6
-0>w=>gww=>ww=>9
-0>w=>g=>ww=>g=>ww=>gw=>ww_=>gw=>ww=>w=>0
-8
-->w=>g=>wg=>w=>ww=>ww=>w=>g=>rw=>gw=>ww_=>gw=>w=>wyiww=>gw=>W=>ww=>w=>g=>w
-8
-->w=>re>w=>ww_=>gw=>ww=>ww_=>gw=>w=>ww=>ww_=>w=>ww=>ww_=>gww=>ww=>8
-0>w=>g=>ww=>g=>ww_=>g=>w=>0
-8
-->w=>pv=>
-8
-defer{classexter{}vara=25}

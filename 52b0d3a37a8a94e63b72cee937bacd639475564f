@@ -1,0 +1,6 @@
+import re.re
+
+re("\Wc")
+re("\\W")
+re("\WX")
+re("\Wd^")

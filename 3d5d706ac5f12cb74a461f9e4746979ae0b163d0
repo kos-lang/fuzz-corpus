@@ -1,0 +1,1 @@
+vara=1555loop{a=a*4%a+a*a}

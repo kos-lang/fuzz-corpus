@@ -1,13 +1,0 @@
-importre:refun will_throw
-{
- var a = void
-try {   a = [ will_throw()... ]
-}catch const e {
- re.a.le
-}
-
-}
-var a = void
-try {a = [will_throw()... ]
-}
-catch const er{}

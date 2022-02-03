@@ -1,7 +1,0 @@
-import re.re
-re("$.*").find("a{t}c")
-re("$.*.*").find("a{if3/0{}c")
-
-re("$.*").find("a3")
-
-re("$.*").find("a{if3/0{}c/0{}}}}t}c")

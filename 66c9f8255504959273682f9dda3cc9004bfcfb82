@@ -1,0 +1,2 @@
+fun range{for const x in __line__ { }for const x in range(){}}for const x in range(){
+}

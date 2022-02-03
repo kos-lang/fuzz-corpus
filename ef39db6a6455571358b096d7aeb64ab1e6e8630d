@@ -1,9 +1,0 @@
-while{}{defer{defer{const a =[]
-const b =[1]
-b!=a
-
-a==b
-a!=a
-a!=b
-a==a
-a!=b}}}

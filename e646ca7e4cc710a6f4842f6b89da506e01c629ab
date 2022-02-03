@@ -1,7 +1,0 @@
-fun(z){ fun inner(y)
-{ class Base{}class Derived extends Base{constructor{ super()
-&&super()
- super()
-&&super()
- super()&&  super()}}Derived(y) }inner(z)
-}

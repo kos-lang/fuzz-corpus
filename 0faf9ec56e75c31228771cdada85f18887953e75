@@ -1,79 +1,0 @@
-w=>w=>0
-8
-->w=>g=>w
-8
-->w=>ww=>w=>g=>w=>g=>ww=>ww_=>gw=>w=>ww=>0
-8
-->w=>g=>gw=>0
-8>g=>w_=>gw=>w=>ww=>g=>gpv=>gw=>gw=>ww_=>gw=>w=>w=>ww=>g=>w=>gw=>w=>ww=>gw=>W=>ww=>w=>g=>w>ww=>gw=>ww_=>gw=>w=>ww=>g=>gpv=>gw=>gw=>ww=>ww=>w=>g=>ww=>gw=>ww_=>gw=>w=>ww=>gw=>W=>ww=>w=>g=>w>w=>g=>ww=>ww_=>gw=>w=>ww=>8
-->w=>g=>gw>ww=>gw=>ww_=>gw=>w=>ww=>g=>gberv=>gw=>ww=>g=>gpv=>gw=>gw=>ww_=>gw=>w=>ww=>w=>pgpv=>gpv=>
-8
-defer{classer{}5
-8
-}
-var a =void
-try {
-    a = ww=>0
-8
-->wg=>ww=>gw=>ww_=>gw=>w=>ww=>gw=>W=>ww=>w=>g=>w
-6
-->w=>g=>ww=>ww_=>gw=>w=>ww=>w=>wwert=>ww=>gw=>ww=>gw=>0
-8->w=>g=>ww=>gw=>W=>ww=>g=>ww=>gw=>ww_=>gw=>w=>ww=>ww=>w=>g=>ww=>w=>ww_=>g=>w=>ww=>gw=>W=>ww=>w=>integerg=>w=>g=>w=>ww=>ww=>w=>g=>ww=>gw=>ww_=>gw=>w=>ww=>gw=>W=>ww=>w=>g=>w>w=>g=>ww=>ww_=>gw=>w=>ww=>7
-->w=>g=>gw=>0
-8>g=>ww=>gw=>ww_=>gw=>w=>ww>ww_=>gw=>w=>ww=>0
-8
-->w=>g=>ww=>g=>gpv=>gw=>gw=>ww_=>gw=>w=>ww=>w=>pgpvg=>www=>gw=>
-8
-->w=>g=>ww=>gw=>Ww=>ww_=>gw=>w=>ww=>gw=>W=>ww=>w=>g=>w>ww=>gw=>ww_=>gw=>w=>ww=>g=>gpv=>gw=>gw=>ww=>ww=>w=>g=>ww=>gw=>ww_=>gw=>w=>gw=>w=>ww=>w=>pgpv=>gpv=>
-8
-defer{classextends2{r{super}}-
-8
-8
-defer{classextends2{gr{super}}-
-5{}}classer{}5
-8
-}fun will_throw
-{
-  var a  = void
-try {
-    a = [ will_throw()... ]
-}
-catch const e{
- #.a
-}assert"`````"
-}
-var a =void
-try {
-    a = w=>g=>ww=>gw=>ww_=>gw=>w=>gw=>w=>ww=>w=>pgpv=>gpv=>
-8
-defer{assert"`````"
-}
-var a =void
-try {
-var a =void
-try {
-    a = w=>w>w>g=>gw=>0
-8>g=>wwv=>gpv=>
-[ will_throw()... ]
-}catch const e {
-   e.viv
-}
-a = w=>w>=>0
-8>w=>ww=>w=>pgpv=>gpv=>
-[ will_throw()... ]
-}catch const e {
-   e.viv
-}
-a=>g=>gw=>0
-8>g=>ww=>ww_=>gw=>ww_=>gw=>w=>ww=>w=>pgpv=>gpv=>
-[ will_throw()... ]
-}catch const e {
-   e.viv
-}
-a=>g=>gw=>0
-8>g=>ww=>ww_=>gw=>w=>ww=>w=>pgpv=>gpv=>
-[ will_throw()... ]
-}catch const e {
-   e.viv
-}
-a

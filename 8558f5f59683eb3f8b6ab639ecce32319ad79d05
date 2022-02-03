@@ -1,0 +1,16 @@
+fun will_throw
+{
+  var exc = void
+try {
+[ will_throw()]
+}catch const e {
+delete e.vu>>e
+}
+
+}var exc = void
+try {[ will_throw() ]
+}
+catch const e {
+ e
+}
+assert exc

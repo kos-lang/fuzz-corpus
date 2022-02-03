@@ -1,0 +1,4 @@
+const obj={r: 6}
+for const v in" " {
+for const v in obj {
+}}

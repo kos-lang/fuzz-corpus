@@ -1,6 +1,0 @@
-import re.re
-re("$.*").find("a{t}")
-
-re(".*").find("a")
-
-re("$.*").find("")

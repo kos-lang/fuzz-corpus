@@ -1,0 +1,5 @@
+fun a5(source)
+{
+for var elem in source {fun a6(e){
+for elem in source {}5()
+}}}

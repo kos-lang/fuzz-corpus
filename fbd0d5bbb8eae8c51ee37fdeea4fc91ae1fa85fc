@@ -1,17 +1,0 @@
-fun will_throw
-{ try {
-  [ will_throw()... ]
-""}
-catch const e { e
-}
-
-try {  [ will_throw()... ]
-}
-catch const e {-0.%+++++++e} #i 18
-}
-var a  = void
-try {[ will_throw()... ]
-}
-catch const e {
- a
-}with-5,0,2,0,4,0,5{}

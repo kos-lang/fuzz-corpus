@@ -1,0 +1,10 @@
+fun a(source)
+{
+for var elem in source {fun m_3()
+{ for var m in source{
+  fun a{
+for elem in source {}5()
+}
+}}
+  }
+}

@@ -1,2 +1,0 @@
-import re.re
-re("\>#]").find("YYY0.5g")

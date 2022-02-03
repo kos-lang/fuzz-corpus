@@ -1,25 +1,0 @@
-fun will_throw
-{void
-var exc = void
-try {  [3, 3, 1].sr< [ will_throw()... ]
-}
-catch const e {vara=707a*777.77778a&=e
-}
-
-}
-var a = void
-try {a = [will_throw()... ]
-}
-catch const e{e
-}
-a=
-4
-->w=> void
-try {a = [will_throw()... ]
-}
-catch const e{e
-}
-try {a = [will_throw()... ]
-}
-catch const e{e
-}

@@ -1,0 +1,19 @@
+importre:refun will_throw
+{
+ var a   = void
+var exc = void
+try {   a = [ will_throw()... ]
+}
+catch const e {8
+->re
+0>w=>g=>  e.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8

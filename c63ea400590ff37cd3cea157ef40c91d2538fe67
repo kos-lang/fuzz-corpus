@@ -1,0 +1,34 @@
+const a = []
+assert a.pu
+assert a.pus1
+assert a
+assert 5
+assert  6
+assert 1
+assert a
+assert
+a
+assert a(5)
+assert 6
+assert a.p6
+assert a==6
+assert 1
+assert a
+assert 6
+assert a.a == 6
+assert  6
+assert a.se
+assert a.p6
+assert a== 6
+assert 1
+assert a
+assert 6
+assert 6
+assert a
+assert ~5
+assert 2
+assert[0] == 1
+assert a 
+assert  ""
+assert a == 1
+assert a.si

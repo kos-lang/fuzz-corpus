@@ -1,2 +1,0 @@
-import re.re
-re(".*^?^").find("0}\r")

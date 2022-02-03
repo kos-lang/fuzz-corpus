@@ -1,12 +1,0 @@
-while"ii'"[:][:]{fun will_throw
-{ var a= void
-try {   a = [ will_throw()... ]
-}
-catch const e {e.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-}
-
-}
-var a = void
-try {a = [will_throw()... ]
-}
-catch const e{1}2}

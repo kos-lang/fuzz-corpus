@@ -1,0 +1,17 @@
+fun will_throw
+{
+try {  [ will_throw()... ]
+""}
+catch const e {}
+
+try {
+[ will_throw()... ]
+}
+catch const e {-0.50*+e
+} #iel8
+}
+var exc = void
+try {[!will_throw()... ]
+}
+catch const e {}
+assert exc

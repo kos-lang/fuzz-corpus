@@ -1,26 +1,0 @@
-fun will_throw
-{
- var a= void
-try {   a = [ will_throw()... ]
-}
-catch const e {e.value
-}
-
-try {
-    [3, 3< 1].sregisters = [ will_throw()... ]
-}
-catch const e {vara=707a*7.a>>=11e302#3<ct
-}
-
-}
-var a = void
-try {a = [will_throw()... ]
-}
-catch const e{e
-}
-a=
-8>ww=>9
-void
-try {a = [will_throw()... ]
-}
-catch const e{25}

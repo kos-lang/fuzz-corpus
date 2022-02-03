@@ -1,0 +1,8 @@
+import re.re
+
+re("c")
+re("")
+re("|")
+re("|Q|")
+re("|QY")
+re("|aul")

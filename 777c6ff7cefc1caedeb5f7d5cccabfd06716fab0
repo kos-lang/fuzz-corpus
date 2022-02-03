@@ -1,18 +1,0 @@
-fun will_throw
-{
-var a   = void
-var exc = void
-try {
-  [will_throw()()... ]
-""}
-catch const e { e
-}
-
-try {  [async will_throw()... ]
-return}
-catch const e {} yield 47
-}var exc = void
-try {[ will_throw()... ]
-}
-catch const e {}
-assert exc

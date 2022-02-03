@@ -1,0 +1,2 @@
+import re.re
+re("(f{6}x{1}>Xn{100}x{01")

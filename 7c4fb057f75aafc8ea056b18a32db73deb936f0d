@@ -1,7 +1,0 @@
-while{}{defer{defer{const a=[2]
-const b=[]
-b<a
-b<a
-b!= a
-b==a
-}}break}

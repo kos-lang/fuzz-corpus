@@ -1,0 +1,21 @@
+fun will_throw
+{
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+ [ will_throw()... ]
+}
+catch const e {
+   delete[delete[][R""+""]][R""+""]}
+
+2[0]/=1
+}
+var Xc = void
+try {[ will_throw()... ]
+}
+catch const e { e
+}

@@ -1,0 +1,2 @@
+import re.re
+re(".{9}?|").find("aunesh}c")

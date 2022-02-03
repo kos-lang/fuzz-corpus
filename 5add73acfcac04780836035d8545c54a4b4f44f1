@@ -1,0 +1,8 @@
+import re.re
+
+re("\\dd")
+<re("")
+re("\ddc")
+<re("d")
+re("")
+<re("")

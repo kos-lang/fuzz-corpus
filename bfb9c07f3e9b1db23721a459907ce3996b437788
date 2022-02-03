@@ -1,18 +1,0 @@
-fun will_throw
-{
-  void
-
-try {
-  [will_throw()()... ]
-}
-catch const e {
- # 
-} yield 18
-}
-void
-try {[ will_throw()... ]
-}
-catch const e {
- e
-}
-

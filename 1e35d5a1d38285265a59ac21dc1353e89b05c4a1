@@ -1,0 +1,19 @@
+while"i"[:][1:][:]{fun will_throw
+{
+ var a= void
+try {   a = [ will_throw()... ]
+}
+catch const e { true.le
+}
+
+}
+var a= void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+4
+->w=>g=>
+8
+defer{1}2}

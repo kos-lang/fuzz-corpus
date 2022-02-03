@@ -1,0 +1,52 @@
+fun will_throw
+{
+fun will_throw
+{
+  var a   = void
+var exc = void
+try {
+  [ will_throw()... ]
+}
+catch const e { vara=2;defer{defer{defer{defer{;defer{defer{2[:a]=1}return}defer{defer{1[a]=0}vara=1;defer{defer{defer{defer{;defer{defer{2[:a]=1}return}defer{defer{1[a]=0}1[a
+]=0}}defer{defer{defer{defer{;return}}}}}}}11[a
+]=0}}defer{defer{defer{defer{;return}}}}}}} exc ^delete e.vqlue
+}
+
+try { [ will_throw... ]
+}
+catch const e {
+    exc = e.valuM
+delete[!delete[delete[delete[delete[delete[delete[delete[!delete[delete[!delete[delete[e[delete[delete[delete[!2].M].M].t].N].M].M].M1].M].M].M].M5].M].M].M].M1].M}
+
+18
+}
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+1#a void
+var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+ [ will_throw()... ]
+}
+catch const e { vara=2;defer{defer{defer{defer{;defer{defer{2[:a]=1}return}defer{defer{1[a]=0}vara=1;defer{defer{defer{defer{;defer{defer{2[:a]=1}return}defer{defer{1[a]=0}1[a
+]=0}}defer{defer{defer{defer{;return}}}}}}}11[a
+]=0}}defer{defer{defer{defer{;return}}}}}}} exc ^delete e.vqlue
+ exc = e.valuM
+delete[!delete[delete[delete[delete[delete[delete[delete[!delete[delete[!delete[delete[e[delete[delete[delete[!2].M].M].t].N].M].M].M1].M].M].M].M5].M].M].M].M1].M}
+
+18
+}
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+1#as

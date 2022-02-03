@@ -1,2 +1,0 @@
-import re.re
-re("=>(X{10,}\xdeepXn{11,}n*=c{11,}=c")

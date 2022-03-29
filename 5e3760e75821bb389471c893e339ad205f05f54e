@@ -1,0 +1,24 @@
+publicfun will_throw
+{
+ var a   =void
+try { a = [ will_throw()... ]
+}
+catch const e {}
+
+try {
+ [ will_throw()... ]
+}
+catch const e {
+  e.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8
+->w=>g=>w=>g=>ww=>gw=>ww=>w=>0
+gt=>w=>0

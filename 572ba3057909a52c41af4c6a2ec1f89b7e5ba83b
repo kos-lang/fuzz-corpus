@@ -1,0 +1,12 @@
+fun will_throw
+{
+var c = void
+try {
+ [!will_throw()... ]
+}
+catch const e{delete e.value
+ e.value.v
+} yield 18
+}
+var exc =[ will_throw()...]
+assert exc

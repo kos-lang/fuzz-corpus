@@ -1,0 +1,3 @@
+import re.re
+
+re("\\Wdd\WdCC\W\\W\W\WdCC\W\\W")

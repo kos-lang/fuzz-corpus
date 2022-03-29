@@ -1,0 +1,26 @@
+fun will_throw
+{
+}
+var a   = void
+var exc = void
+try {[ ]
+}
+catch const e {
+ e
+fun will_throw
+{
+try {
+ # 
+ [ will_throw()... ]
+}
+catch const e {e
+exc = e#valaluM
+}
+
+try {
+    a = [ will_throw()... ]
+}
+catch const e {} yield  e
+}[ will_throw()... ]
+assert exc}[ will_throw()... ]
+a

@@ -1,0 +1,33 @@
+fun will_throw
+{ var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+ [ will_throw()... ]
+}
+catch const e {
+}
+
+try {
+ }
+catch const e {
+ }
+ exc = void
+try {  [ will_throw()... ]
+}
+catch const e {
+  exc&=delete e.va#  e
+} yield 17
+}
+var a   = void
+var exc = void
+try{[ will_throw()... ]
+}
+catch const e {
+
+}
+assert exc

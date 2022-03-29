@@ -1,0 +1,6 @@
+import re.re
+
+re("\\d\ddc")
+re("\\dd\ddc\\\\\\\\\ddcZcontinue\\ddd\ddc\\dd\ddc\\\\\\\\b\\dd\ddc")
+re("\\dd\dd^=\\\\\W\\ddcZ\\\\\\\\\\ddd\ddc\\dd\ddcZ\\\\\\\\\\ddd\ddc\\dd\ddc\\\\b\\de\\ddd\ddc\\dd\ddc\\ddcZ\\\\\\\\\\ddd\\dd\ddc")
+re("\\dd\ddc\\\\\d\\\\\\\\\d\ddc")

@@ -1,0 +1,5 @@
+import re.re
+
+re("\\W\d\ddc\defer\\\\\\\d\\dd\dd\dddddd\ddcdd\dddddddd\dd\\d\dddd\ddc\\dddddd\ddc")
+re("dd\ddc\ddddd\ddd\\\d\\dd\dd\dddddd\ddcdd\dddddddd\dd\\d\dddd\ddc\\dddddd\ddc")
+re("dd\ddc\ddddd\dddd\ddc")

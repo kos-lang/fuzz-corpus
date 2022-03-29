@@ -1,0 +1,7 @@
+import re.re
+re("$.").find("")
+
+re("").find("")
+re("$").find("")
+
+re("$.*.*").f

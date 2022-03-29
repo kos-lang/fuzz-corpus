@@ -1,0 +1,21 @@
+fun will_throw
+{ var a = void
+try {[ will_throw()... ]
+}
+catch const e {e
+}
+
+
+try {g=>8
+while""in[]{}while""in[]{}while""in[]{} a = [ will_throw()... ]
+}
+catch const e {
+  a.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()...]
+}
+catch const e{e
+26}

@@ -1,0 +1,51 @@
+fun make_it(z)
+{fun inner(y)
+  {   class Base
+   {
+    } class Derived extends Base
+ {
+    constructor  {
+    super()
+     super()
+    vara=8a=async
+2->-  super(a)
+  class Ded extends Base
+ {
+    constructor      { super()
+    super()
+     super()
+{
+    }
+    class Derived extends Base
+ {
+constructor  {    vara=9()
+  {
+    }
+    class Derived extends Base
+ {
+    constructor  {
+ super
+   super()
+     
+" "-      super(a)
+   super
+     super()}
+        }
+   Derived(y)
+     a=async
+1->-      super(a)
+  
+       }      }
+   
+   super
+     super()}
+        }
+   a=async
+1->-      super(a)
+  
+       }
+        }
+   Derived(y)
+    }
+ return inner(z)
+} make_it(44)

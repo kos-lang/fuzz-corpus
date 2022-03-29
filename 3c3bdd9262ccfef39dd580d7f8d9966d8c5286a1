@@ -1,0 +1,7 @@
+fun k{ fun inner(y) {
+var b=1
+class Base{}class Derived extends Base{constructor{super()
+ super()
+super()
+super(b)
+}}Derived(y)}inner()}

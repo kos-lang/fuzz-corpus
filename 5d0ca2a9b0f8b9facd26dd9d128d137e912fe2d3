@@ -1,8 +1,0 @@
-import re.re
-re("$.*").find("a")
-
-re("").find("")
-
-re("$.*").find("a3")
-
-re("$*").find("a}c")

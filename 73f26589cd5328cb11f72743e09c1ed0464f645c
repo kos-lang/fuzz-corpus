@@ -1,0 +1,2 @@
+import re.re
+re("(?:M||J)()").find("tel!0].M1||de1!0][dele[et!5].Mc")

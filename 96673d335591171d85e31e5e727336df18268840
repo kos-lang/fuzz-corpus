@@ -1,0 +1,20 @@
+publicfun will_throw
+{var a = void
+try {   [ will_throw()...]
+}
+catch const e {e.value
+}
+
+
+try {  [3,].s = [ will_throw()... ]
+}
+catch const e {
+ e.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+5}

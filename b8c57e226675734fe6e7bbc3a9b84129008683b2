@@ -1,22 +1,0 @@
-fun will_throw
-{ void
-try {vara=1a=15.000057*55a[a+1E51]=[]
-}
-catch const e {
-}
-
-try {  [ will_throw()... ]
-""}
-catch const e {
- 
-delete[1].M}
-
-}
-var a   = void
-var exc = void
-try {[ will_throw()... ]
-}
-catch const e {
- e
-}
-assert exc

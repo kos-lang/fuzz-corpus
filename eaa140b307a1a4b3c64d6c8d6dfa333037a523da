@@ -1,3 +1,0 @@
-import re.re
-
-re("\\W\\\"\\\"\ddd\\\"\\\\2d|]\dd\\\"contu\\]d?d\\\"d|]\\waitdd\\\"?d\\\"\\\"\dd\\\\TddW\d|")

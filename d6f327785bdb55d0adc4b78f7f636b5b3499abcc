@@ -1,0 +1,12 @@
+fun will_throw
+{
+var exc = void
+try{  [ will_throw()... ]
+}
+catch const e {
+ delete e.vqlu|e
+} yield 89
+}
+try {[ will_throw()... ]
+}
+catch const er{}with-5,0,2,0,0,0,4,0,5{}

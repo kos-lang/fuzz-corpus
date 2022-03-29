@@ -1,22 +1,0 @@
-fun will_throw
-{ 
-try {
-  [ will_throw()... ]
-""}
-catch const e { e
-}
-
-try {
- [ will_throw()... ]
-}
-catch const e {delete e.vqlu|e
- 
-}#9
-}
-
-try {[ will_throw()... ]
-}
-catch const e {
- e
-}
-#xc

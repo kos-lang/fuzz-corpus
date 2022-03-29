@@ -1,5 +1,0 @@
-class c1{
-}
-class c2 extends c1{}class c3 extends c2{}
-class extends c3 {
-}

@@ -1,13 +1,0 @@
-import re.re
-
-re("\\W\\\\\\\\\\\\d\ddc")
-re("\\W\\\\\\W\\\\\dd:dc")
-re("\\W\\\\\\W\\\\\dd:dddd\\\"\\W\\\\\dd\\\]\]\W\\\\\\W\\\\\dd:dddd\\\"\\W\\\\\\ddc")
-re("\\W\\\\dddd\\\"\\W\\\\\\ddc")
-re("\\W\\\\\dd\dda\ddc")
-re("\\W\\\\\\W\\\\\dd:dddd\\\"\\W\\\\\dd\\\]\]d?d\\\"\\W\\\ddl\\\"\\W\\\\\dd\\\]ddd\ddc")
-re("\\W\\\\\\W\\\\\dd:dddd\"\\W\\\\\\ddc")
-re("\\W\\\\ddd\\\"\\W\\\\\dd\\\]ddd\dd\\]d?d\\\"\\W\\\ddl\\\\\dd:dddd\\\"\\W\"\\W\\\\\\dc")
-re("\\W\[\\\\\W\\\\\dd:dddd\\\"\\W\\\\^\ddc")
-re("\\W\\\\\dd\dda")
-re("\\\\W\\\\\dd:dddd\\\"\\Wd?d\\\"\\W\\\ddl\\\"\\W\\\\\dd\\\]dd\\\\TddW\d|")

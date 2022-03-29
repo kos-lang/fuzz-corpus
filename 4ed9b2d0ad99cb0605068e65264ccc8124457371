@@ -1,0 +1,39 @@
+fun make_it(z)
+{fun inner(y)
+  {   class Base
+   {
+    } class Ded extends Base
+ {
+    constructor  {
+ 
+  class Derived extends Base
+ {
+constructor  {
+    super()
+    super()
+ super()
+{
+    }
+    class Derived extends Base
+ {
+    constructor      {   class Derived extends Base
+ {
+    constructor      {
+    -      super(a)
+ }
+        }
+   Derived(y)
+  nc
+2->-      sper()
+    super()}     }
+   Derived(y)
+      supe
+1->-     uper()}
+        }
+   Derid(y)
+   }
+        }
+   Derived(y)
+    }
+ return inner(z)
+} make_it(44)

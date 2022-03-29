@@ -1,0 +1,18 @@
+while"ii'"[:][1:][:]{fun will_throw
+{
+ var a= void
+try {  [ will_throw()... ]
+}
+catch const e {e.l
+}
+
+}
+var a =void
+try {[will_throw()... ]
+}
+catch const e{e
+}
+a=8
+>w=>g=>w=>g=>w=>g=>w=>0
+8
+->w=>g=>ww=>gw=>2}

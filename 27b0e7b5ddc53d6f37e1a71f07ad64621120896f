@@ -1,0 +1,20 @@
+fun will_throw{ 
+
+var c = void
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+ [will_throw()... ]
+}
+catch const e {
+ delete{}.vqlu# 
+} yield 17
+}
+try {[ will_throw()... ]
+}
+catch const e {
+}

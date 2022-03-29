@@ -1,0 +1,11 @@
+fun will_throw
+{
+ try {
+  [will_throw()() ]
+return}
+catch const e {
+delete e.va} yield" "
+}var c = void
+try {[ will_throw()... ]
+}
+catch const e {}

@@ -1,7 +1,0 @@
-import re.re
-re("$.").find("a{t}c")
-
-re("").find("")
-re("$").find("a1")
-
-re("$.*.*").f

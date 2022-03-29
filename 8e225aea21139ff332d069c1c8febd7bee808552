@@ -1,0 +1,25 @@
+fun add_5(source)
+{
+for var elem in source {
+  fun mul_2(source)
+{ for var elem in source {
+ }
+}fun add_5(source)
+{
+for var elem in source {
+  }
+}
+fun mul_3(source)
+{
+    for var elem in source {
+    yield elem }
+}
+const i= [4- -2, 1] -> mul_3 -> add_5#mul_35()
+  }
+}
+fun mul_3(source)
+{
+    for var elem in source {
+    yield elem }
+}
+const i= [4- -2, 1] -> mul_3 -> add_5#)

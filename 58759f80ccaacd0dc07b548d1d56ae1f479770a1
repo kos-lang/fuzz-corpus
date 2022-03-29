@@ -1,3 +1,0 @@
-import re.re
-
-re("ddd\\\"\\\\dd\W\\\"\\W\\\\\dd\\\]dd\d|\\\\\ddd\\\"\\W\\\\\dd\\\]ddd\dd\\]d?d\\\"\\W\\\ddl\\\"\\ddd\d|\\\\\d!d~\\\"\\W\\\dl\\\"\\ddd\\\"\\d\\\"\\W\\\ddl\\\"\\ddd\\\"\\W\\\\\dd\\\]dd\\\\Td\\\\\void\\\d|\\\\\d!d~\\\"\\W\\\dl\\\"\\ddd\\\"\\W\\\\\dd\\d\dd\\]d?d\\\"\\W\\\ddl\\\"\\W\\\\\dd\\\]ddd]dd\\\\TddW\d|")

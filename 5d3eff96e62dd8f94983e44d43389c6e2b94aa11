@@ -1,2 +1,0 @@
-import re.re
-re("\w\w\W\w\\W")

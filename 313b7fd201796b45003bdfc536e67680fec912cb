@@ -1,0 +1,29 @@
+import re.re
+fun will_throw
+{
+  var exc = void
+try {
+  [ will_throw()... ]
+"/="}
+catch const e { e
+}
+re("({00010000,0400%")
+try {[ will_throw()... ]
+}
+catch const e {delete e.vqlu}
+
+
+}
+void
+var exc = void
+try {[-will_throw()... ]
+}
+catch const e {
+ e
+try {
+  [ will_throw()... ]
+"/="}
+catch const e { e
+}
+}
+assert exc

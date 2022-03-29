@@ -1,0 +1,10 @@
+fun will_throw
+{
+
+
+try {
+![ will_throw().w()... ]
+}
+catch const e {
+}
+}

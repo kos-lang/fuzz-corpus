@@ -1,0 +1,51 @@
+fun will_throw
+{
+ var a   = void
+try {   a = [ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+[1].srt= [ will_throw()... ]
+}
+catch const e {
+  e.ale
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8
+->w=>g=>w=>g=>www=>gw=>ww=>w=>0
+8
+->w=>g=>ww=>gw=>W=>ww=>g=>w=>gw=>w=>ww>ww=>w=>g=>w
+8
+->w=>g=>ww=>ww=>ww=>8
+0>w=>g=>ww=>g=>ww=>w=>w=>ww=>g=>ww=>gw=>ww_=>gw=>w=>ww=>gw=>W=>ww=>w=>g=>w
+8
+->w=>g=>ww=>ww_=>gw=>w=>ww=>ww_=>gww=>ww=>9
+0>w=>g=>ww=>g=>ww=>gw=>ww_=>gw=>ww=>w=>0
+8
+->w=>g=>wg=>w=>ww=>ww=>w=>g=>ww=>gw=>w=>gw=>w=>wyiww=>gw=>W=>ww=>w=>g=>w
+8
+->w=>g=>ww=>ww_=>gw=>w=>ww=>ww_=>w=>ww=>ww_=>gww=>ww=>8
+0>w=>g=>ww=>g=>ww=>g=>w=>g=>ww=>ww_=>gw=>w=>ww=>5
+8
+->w=>g=>gw=>0
+8>g=>ww=>gw=>ww_=>gwz=>w=>ww=>v=>gpv=>gw=>gw=>ww=>ww=>w=>g=>w=>gw=>w=>ww>ww=>w=>g=>w=>g=>ww=>ww=>ww=>3
+0>w=>g=>ww=>g=>ww=>w=>w=>ww=>g=>ww=>ww_=>void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8
+->w=>g=>pv=>
+8
+defer{classexter{}25}

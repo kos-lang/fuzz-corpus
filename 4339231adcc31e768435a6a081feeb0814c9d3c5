@@ -1,0 +1,14 @@
+fun will_throw
+{
+try {
+  [will_throw()()... ]
+""}
+catch const e { e
+}
+
+try {  [async will_throw()... ]
+}
+catch const e {} yield 23
+}try {[ will_throw()... ]
+}
+catch const e {}

@@ -1,3 +1,0 @@
-import re.re
-
-re("\\W\\\\dd\WdCC\W\\W#\\\\\W\\W\dd\d\W\\\\\dd\\W\\")

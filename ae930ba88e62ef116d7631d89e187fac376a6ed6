@@ -1,7 +1,0 @@
-const obj =class{
-}
-for const v in"d"{
-for const v in! obj{
-for const v in!obj{v
-}
-}}

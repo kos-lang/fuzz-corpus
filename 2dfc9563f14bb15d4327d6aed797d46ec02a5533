@@ -1,0 +1,7 @@
+fun mak(z)
+{fun inner(y) {   class Base
+{ }class Derived extends Base
+ {constructor { vara=8a=super(a)}
+  } Derived(y)
+} inner(z)
+}

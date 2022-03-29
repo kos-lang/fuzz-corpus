@@ -1,16 +1,0 @@
-fun will_throw
-{
-var exc = void
-try {
-  [ will_throw()... ]
-->""}
-catch const e { }
-try {  [ will_throw()... ]
-}
-catch const e {
-  exc -=delete{}.v} 18
-}var exc = void
-try {[ will_throw()... ]
-}
-catch const e {
-} exc

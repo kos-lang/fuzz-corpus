@@ -1,0 +1,3 @@
+fun the_call(X,E0=0, a0E1=1,E2=0, a100=0x100)
+{ var a = + a100
+}the_call(7)

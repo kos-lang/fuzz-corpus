@@ -1,0 +1,15 @@
+fun will_throw
+{
+  var  exc = void
+try {
+[ will_throw()()...]
+}
+catch const e {
+
+return   exc-> e.value
+}
+}
+
+try {[ will_throw()... ]
+}
+catch const e {}

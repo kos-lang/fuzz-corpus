@@ -1,27 +1,0 @@
-importos.*fun will_throw
-{
- var a   =void
-try {   a = [ will_throw()... ]
-}catch const e {e.value
-}
-
-
-try {
-[3, 3, 1].re= [ will_throw()... ]
-}catch const e {
-  e.a.le
-}
-
-}
-var a = void
-try {a = [will_throw()... ]
-}
-catch const e{e
-}
-a=
-8
-->w=>8
-0>w=>g=>ww=>g=>ww=>w=>w=>ww=>g=>ww=>gw=>ww_=>gw=>w=>ww
-->w=>pv=>
-8
-defer{classexter{}vara=25}

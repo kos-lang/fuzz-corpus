@@ -1,0 +1,4 @@
+const obj ={or:6}
+for const v in!""{
+for const v in obj {for const v in!obj {}
+}}

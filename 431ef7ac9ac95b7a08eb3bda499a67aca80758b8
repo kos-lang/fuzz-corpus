@@ -1,0 +1,24 @@
+import re.re
+fun will_throw
+{
+  var exc = void
+try {
+  [ will_throw()... ]
+"/="}
+catch const e { e
+}
+re("0000}?")
+try {[ will_throw()... ]
+}
+catch const e {
+  exc/=delete e.vqlu}
+
+
+}
+void
+var exc = void
+try {[-will_throw()... ]
+}
+catch const e {
+ e
+}

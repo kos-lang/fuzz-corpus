@@ -1,8 +1,0 @@
-public fun range{
-}
-for const x in(3) {for const x in range(x,3){
-
-}
-for const x  in range(x,3){}for const x in range(x,2) {
-}
-}

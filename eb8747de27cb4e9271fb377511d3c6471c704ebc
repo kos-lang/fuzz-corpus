@@ -1,0 +1,16 @@
+fun will_throw
+{
+try {[ will_throw()...]
+""}
+catch  const e {}
+
+try {
+ [typeof will_throw()... ]
+}
+catch const ee {
+}#
+}
+void
+try {[ will_throw()... ]
+}
+catch const e {}

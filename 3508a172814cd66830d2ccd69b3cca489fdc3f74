@@ -1,0 +1,10 @@
+try {try {
+ try {
+for var z in [[] ] {}}
+catch const e {}
+for var xz in[6]{}try {for var z in [ [] ] {}
+}
+catch const e {
+}
+}catch const e {}}
+catch const e {}

@@ -1,0 +1,10 @@
+fun will_throw
+{
+ 
+try {
+  [will_throw()... ]
+}
+catch const e {
+   delete[delete[][R""+""]][R""+""]}}try {[ will_throw()... ]
+}
+catch const e {}

@@ -1,0 +1,7 @@
+const obj=class{
+}
+for const v in""{
+for const v in! obj{
+for const v in!obj{v
+}
+}}

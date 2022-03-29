@@ -1,0 +1,31 @@
+fun will_throw{
+  var a   = void
+try {vara=0a=15.000057*55a[a+151]=[]
+}
+catch const e {
+ 
+ a  == void
+try { [will_throw()... ]
+""}
+catch const e {
+ 
+}
+
+}
+ void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e  {
+ 
+}
+
+}
+ void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+assert exc

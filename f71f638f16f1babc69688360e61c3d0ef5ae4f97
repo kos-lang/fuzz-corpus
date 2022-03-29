@@ -1,12 +1,0 @@
-fun will_throw
-{
- void
-try {
-  [will_throw()() ]
-return}
-catch const e {
-delete e.va} yield" "
-}var exc = void
-try {[ will_throw()... ]
-}
-catch const e {}

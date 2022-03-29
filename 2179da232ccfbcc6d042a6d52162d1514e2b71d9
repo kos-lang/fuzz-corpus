@@ -1,0 +1,25 @@
+fun will_throw
+{
+ var a   = void
+try {   a =[ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+[0()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+[].sreg= [ will_throw()... ]
+}
+catch const e { e.a.le
+}
+
+}try {[will_throw()... ]
+}
+catch const e{6}

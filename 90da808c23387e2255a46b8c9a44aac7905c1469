@@ -1,10 +1,0 @@
-fun will_throw
-{try { [ will_throw()... ]
-}
-catch const e {e.valuethrow+1}
-
-}
-var a = void
-try {a = [will_throw()... ]
-}
-catch const e{5}

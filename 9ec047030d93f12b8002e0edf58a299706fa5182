@@ -1,0 +1,8 @@
+fun the{ var a =0
+ fun _a
+{fun the_call( a001=0)
+{
+a001 +the_call}
+const l=a
+}
+}

@@ -1,0 +1,2 @@
+import re.re
+re("(?:M|)()(t)").find(")")

@@ -1,18 +1,0 @@
-fun will_throw{
-try { [ will_throw().wv ]
-""}
-catch const e { e
-}
-
-try {
- [ will_throw()... ]
-}
-catch const e {
-  e.c&=delete e.v>__line__>>e
- }
-}
-try {[ will_throw()]
-}
-catch const e {
- e
-}

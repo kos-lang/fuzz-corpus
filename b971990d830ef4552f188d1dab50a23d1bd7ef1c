@@ -1,0 +1,35 @@
+cfilllas=>0
+8
+->w=>g=>w
+8
+->w=>ww=>w=>g=>w=>g>gw=>w=>w=>wwg=>W=>ww=>w=>g=>w>w=>wh_=>gw=>w=>ww=>g=>gw=>0
+8>g=>ww=>gw=>ww_=>gw=>w=>ww=>g=>g>ww=>gw=>w=>ww=>w>w=>ww=>g=>W=>ww=>n=>g=>w=>g=>www=>w=>g=>w=>g=>ww=>ww_=>gw=>w=>w
+->w=>g=>gw=>0
+8>g=>w_=>gw=>w=>thisww=>g=>gp=>g=>w=>ww=>gw=>W=>ww=>w=>g=>w=>g=>w=>ww=>ww=>w=>g=>ww=>gw=>ww_=>gw=>w=>w=>wwg=>W=>ww=>w=>g=>w>w=>wh=>ww_=>gw=>w=>ww=>g=>g>ww=>gw=>w=>g=>w=>ww=>ww=>w=>g=>ww=>gw=>ww_=>gw=>w=>w=>wwg=>W=>ww=>w=>g=>w>w=>whw_=>gw=>w=>ww=>g=>g>ww=>gw=>w=>ww=>w>w=>ww=>g=>W=>ww=>n=>g=>w=>g=>www=>w=>g=>w=>g=>ww=>ww_=>gw=>w=>w
+->w=>g=>gw=>0
+8>g=>w_=>gw=>w=>thisww=>g=>gp=>g=>w=>ww=>gw=>W=>ww=>w=>g=>w=>g=>w=>ww=>ww=>w=>g=>ww=>gw=>ww_=>gw=>w=>w=>wwg=>W=>ww=>w=>g=>w>w=>wh=>ww_=>gw=>w=>ww=>8
+->w=>g=>gw=>0
+8>g=>ww=>gw=>ww_=>gw=>w=>ww=>g=>gpv=>gw=>gw=>ww=>gw=>w=>ww=>w>T=>w1w=>g=>W=>ww=>n=>g=>w=>g=>w_=>gw=>w=>ww=>0
+8
+->w=>g=>gw=>+0
+8>g=>gw=>ww_=>gww=>g=>gpv=>gw=>gw=>ww_=>gw=>w=>ww=>w=>pgpv=>gpv=>
+8
+defer{pv=>
+8
+defer{5
+8
+}fun will_throw
+{
+ }
+var a =void
+try {
+    a >w=>[ will_throw()... ]
+}catch const e {e.viv
+}}fun will_throw
+{
+ }
+var a =void
+try { a >w=>[ will_throw()... ]
+}catch const e {e.viv
+}
+a

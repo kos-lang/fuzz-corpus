@@ -1,0 +1,27 @@
+fun will_throw
+{void
+try {
+  [ will_throw()... ]
+"&r"+"r"+R"r"+R"7a="+5
+ }
+catch const e {
+}
+
+try {[ will_throw()... ]
+}
+catch const e {w=>7
+0>w=>W=>w
+}
+
+try {
+[ will_throw()... ]
+}
+catch const e {
+ } yield 89
+}
+void
+try {[ will_throw()... ]
+}
+catch const e{
+ 
+}with-5{}

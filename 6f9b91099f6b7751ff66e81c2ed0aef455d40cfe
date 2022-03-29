@@ -1,6 +1,0 @@
-try {try {try {
-for var z in[ [3] ] {}}catch const e {}
-for var xz in[ [2] ] {}   for var z in[ [4] ] {}}catch const e {}
-for var xz in[ [2] ] {}}
-catch const e {
-}

@@ -1,3 +1,0 @@
-fun will_throw
-{try {  [ will_throw]}
-catch const e {}}with-5888888888888888888,8888,0,5{}

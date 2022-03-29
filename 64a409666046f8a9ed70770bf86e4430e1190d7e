@@ -1,0 +1,5 @@
+import re.
+re
+re("\\dc")<re("\d")
+re("\\ds")
+re("\ddc")

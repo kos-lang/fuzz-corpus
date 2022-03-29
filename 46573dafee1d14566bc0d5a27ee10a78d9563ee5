@@ -1,8 +1,0 @@
-public fun range {
-}
-defer{defer{}defer{defer{defer{defer{defer{for const x in range(0,2) {
-for const x in range(x=3) {
-}
-}}}return}for const x in range(2) {
-for const x in range(x=23) {}
-}}}return}return

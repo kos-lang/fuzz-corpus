@@ -1,0 +1,18 @@
+fun add_5(source)
+{
+for var elem in source {
+  fun mul_3(source)
+{ for var elem in source {
+  fun add_5(source)
+{
+    for var elem in source {
+  fun a{
+   for var elem in source {for elem in source {}
+}
+    }
+}mul_3 -> add_5()
+} elem * 3 }
+}
+ mul_3 -> add_5()
+  }
+}

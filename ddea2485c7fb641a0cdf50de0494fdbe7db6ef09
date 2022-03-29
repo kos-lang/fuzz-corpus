@@ -1,0 +1,2 @@
+for const v in"nd"{
+for const v in v{switch!4{default{throw""}}}}

@@ -1,5 +1,0 @@
-fun will_throw{yield 18
-}
-try {[ will_throw()... ]
-}
-catch const e {}

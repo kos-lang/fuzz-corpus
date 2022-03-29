@@ -1,0 +1,10 @@
+public fun range {defer{defer{2;0;defer{defer{yield
+8
+yield
+async-4->9
+yield
+async
+8->8
+yield
+nc
+8-1}55e1}2};}return{};;0}

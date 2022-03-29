@@ -1,0 +1,11 @@
+while{}{defer{defer{defer{defer{defer{vara=4->
+0while{}{defer{defer{defer{defer{defer{4>
+0fun will_throw
+{
+ } a = void
+try {a =[will_throw().fun]
+}catch const e{e
+}
+a=w=>0
+8
+>-a;}return}return}break}return}return}-a;}return}return}break}return}return}

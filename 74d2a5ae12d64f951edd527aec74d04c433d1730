@@ -1,0 +1,23 @@
+fun will_throw
+{
+  var a= void
+try {
+   }
+catch const e {
+e
+try {
+   a = [ will_throw() ]
+}
+catch const e {
+ #id
+try {
+    a = [ will_throw()... ]
+    a = [ will_throw]}
+catch const e {}
+
+try {  a - [ will_throw()... ]
+}
+catch const e {
+ 
+}}}}
+ ""

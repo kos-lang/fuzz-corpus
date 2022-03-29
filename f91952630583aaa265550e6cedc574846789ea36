@@ -1,0 +1,41 @@
+fun make_it(z)
+{ fun inner    {
+  class Base  {
+   }     class Derived extends Base
+        {constructor    {
+    super()
+   &&    super()
+      super()
+&&       super()
+   this.ap&&  super()
+   super()
+&&      super()
+super()
+&&   super()
+    super()
+&&   super()
+         super()
+&&        super()
+     super()
+&&  super()
+  super()
+&  super()
+&&     super()
+     super()
+&&  super()
+  super()
+&&       super()
+this.ap&&   super()
+  super()
+&&           super()
+super()
+&&   super()
+    super()
+&&    super()
+     super()
+&&super()
+      }
+        }
+ return Derived}#
+ inner(z)
+} make_it(87)

@@ -1,0 +1,10 @@
+const obj=class{}
+for const v in "nd"{
+for const v in v{switch!obj {
+}
+}const j=class{}
+for const v in "nd"{
+for const v in v{switch!4{default{throw""
+}}for const v in obj {
+}
+}}}

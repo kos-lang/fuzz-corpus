@@ -1,4 +1,0 @@
-import re.re
-re("(X),|").find("")
-
-re("(X)|r,").find("X")

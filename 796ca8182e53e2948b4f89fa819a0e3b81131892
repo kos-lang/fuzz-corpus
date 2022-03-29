@@ -1,5 +1,0 @@
-import re.re
-
-re("\\\֭*\\]d")
-re("֭\ddc")
-re("\\֭")

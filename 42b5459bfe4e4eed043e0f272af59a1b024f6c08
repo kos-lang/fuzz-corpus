@@ -1,0 +1,5 @@
+const obj={o:{}
+}
+for const v in" gen333d" {
+for const v in obj{for const v in obj{for const v in v{}}
+}}

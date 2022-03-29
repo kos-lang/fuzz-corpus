@@ -1,4 +1,0 @@
-import re.re
-re("").find("a")
-re(".*").find("a")
-re("$.*").find("")

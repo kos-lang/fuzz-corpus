@@ -1,0 +1,30 @@
+fun will_throw
+{
+ var a  = void
+try {  try {   [ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+ a = [ will_throw]
+}
+catch const e {e.value
+}
+const obj ={
+}
+for const v in" gen3333333333UUUUr^end" {for const V in v{for const v in obj{}
+}}
+
+try {
+  [ will_throw()... ]
+}
+catch const e {
+ # throw+1a.le
+throw""}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{}

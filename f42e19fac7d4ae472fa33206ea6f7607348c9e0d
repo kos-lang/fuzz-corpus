@@ -1,0 +1,4 @@
+fun range {
+}
+defer{defer{}defer{defer{for const x in range{for const xx in range(2,x){
+}}}return}return}return

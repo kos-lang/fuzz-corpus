@@ -1,0 +1,11 @@
+fun will_throw
+{try  {  [ will_throw()... ]
+}
+catch const e {-0.*+++++2%+e} #ield 18
+}
+var a   = void
+try {[ will_throw()... ]}
+catch const e {
+ a=50
+8
+}4+0;defer{throw{}}-~--5;defer{throw{}}-~1;defer{throw{}}defer{throw{}}-~4e3defer{throw{}}-~435;defer{throw{}}defer{throw{}};--5;defer{throw{}}defer{throw{}}5;defer{throw{}};defer{throw{}}-5;defer{throw{}}defer{throw{}}defer{throw{}}defer{throw{}}defer{throw{}}defer{throw{}}defer{throw{}};defer{throw{}}defer{throw{}}defer{}-5;defer{throw{}}defer{{}};defer{throw{}}defer{throw{}}1;defer{throw{}};defer{throw{}}40;defer{throw{}}--5;defer{throw{}};defer{throw{}}-4;defer{throw{}}5;

@@ -1,0 +1,10 @@
+fun will_throw
+{void
+try {
+[ will_throw()]
+}
+catch const e {return   e-> e.value
+}
+}try {[ will_throw() ]
+}
+catch const e {}

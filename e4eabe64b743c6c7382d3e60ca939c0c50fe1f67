@@ -1,0 +1,13 @@
+fun will_throw
+{ void
+try {
+  [ will_throw()... ]
+"r"+R"?"+5
+}
+catch const e {
+} yield 9
+}void
+try {[ will_throw()... ]
+}
+catch const e {
+}with-5,0,0,0{}

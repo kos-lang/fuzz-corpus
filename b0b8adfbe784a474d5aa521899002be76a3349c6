@@ -1,0 +1,18 @@
+
+var a   = void
+var exc = void
+try {[ ]
+}
+catch const e {
+ e
+fun will_throw
+{
+try {}
+catch const e {e
+exc = e#
+}
+
+try { a = [ will_throw()... ]}
+catch const e {}
+}assert exc}[ ]
+a

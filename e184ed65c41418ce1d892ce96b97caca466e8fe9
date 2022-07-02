@@ -1,0 +1,28 @@
+import re.re
+fun will_throw
+{
+  var exc =("tu")
+try {[ will_throw()... ]
+}
+catch const e {}
+
+
+ void
+try {
+  [ will_throw()... ]
+"/="}
+catch const e { e
+}
+re(e=__lin=>u=>g=>"")
+
+}
+void
+try {[-will_throw()... ]
+}
+catch const e {
+ e
+try {
+ }
+catch const e { e
+}
+}

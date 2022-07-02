@@ -1,29 +1,0 @@
-importre:refun will_throw
-{
- var a   = void
-try {  [ will_throw()... ]
-}
-catch const e {e.value
-}
-
-
-try { [ will_throw()... ]
-}
-catch const e {
-e.a.le
-}
-
-}
-var a = void
-try {a = [will_throw()... ]
-}
-catch const e{e
-}
-a=
-5>w=>g=>w=>gw=>0
-
->w=>ww=>ww_=>gww=>ww=>9>w=>g=>ww=>g=>ww=>g_=>g=>w=>0
-8
-->w=>pv=>
-8
-defer{vara=25}

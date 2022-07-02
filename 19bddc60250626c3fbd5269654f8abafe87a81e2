@@ -1,0 +1,20 @@
+fun will_throw
+{
+try {
+ "r"+R""+5 }
+catch const e{
+}
+try {[ will_throw()... ]
+}
+catch const e {}
+
+try {
+ [ will_throw()...] 
+}
+catch const e{
+} yield 28
+}
+
+try{[ will_throw()...]
+}
+catch const e {}

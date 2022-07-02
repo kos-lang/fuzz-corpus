@@ -1,0 +1,9 @@
+import re.re
+re("W")
+<re("dc")
+re("a")
+<re("")
+re("c")
+<re("\dc")
+re("d")
+<re("dd")

@@ -1,0 +1,30 @@
+importre:refun will_throw
+{
+ var a   = void
+try {   a = [ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+    [3, 3, 1].res= [ will_throw()... ]
+}
+catch const e {
+ re.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8
+->w=>gww_=>gww=>ww=>w=>g=>w=>g=>ww=>ww=>ww=>8
+0>w=>w>wg=>w7=>gww=>wwwww=>g=>ww=>g=>ww=>gw=>ww_=>g=>w=>0
+8
+->w=>pv=>
+8
+defer{}

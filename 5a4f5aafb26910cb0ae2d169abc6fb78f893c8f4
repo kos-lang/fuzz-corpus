@@ -1,0 +1,5 @@
+fun will_throw
+{try {[ will_throw()]}
+catch const e {vara=48a|=-1e302}}try{ [will_throw() ]
+}
+catch const e{}

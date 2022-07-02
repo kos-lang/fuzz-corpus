@@ -1,0 +1,9 @@
+while{}{defer{defer{defer{defer{defer{vara=2while{}{defer{defer{defer{defer{defer{a=4>
+0fun will_throw
+{
+}
+ a= void
+try{a = [will_throw]
+}
+catch const e{}9
+>-a}return}return}break}return}return}-a;}return}return}break}return}return}

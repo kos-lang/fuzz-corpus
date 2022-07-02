@@ -1,0 +1,19 @@
+fun will_throw
+{
+try {vara=20a[+151]=[]}
+catch const e {}
+
+try {[ will_throw()... ]
+""}
+catch const e {
+}
+
+}
+try {[ will_throw()... ]
+}
+catch const e {
+ try {[ will_throw()... ]}
+catch const e {
+ }
+
+}

@@ -1,0 +1,4 @@
+while{}{defer{
+try{
+}
+catch const er{7}defer{defer{continue}return}}break}

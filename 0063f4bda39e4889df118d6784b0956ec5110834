@@ -1,0 +1,9 @@
+fun the_call(a000=0X000, a001=0X001, a002=0X002, a003=0X003, #001F,
+ a020=0X02, a021=0X021, a022=0X022, a023=0X023, a024=7, a028=0X028, a029=0X0, a0EF=0X0EF, a0FF=0X0FF,
+    a100=0x100)
+{ var a = a000 + a0EF +
+    a100
+return a
+}
+const result = the_call(a021=0X7)
+assert result

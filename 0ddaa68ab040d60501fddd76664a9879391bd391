@@ -1,0 +1,11 @@
+fun will_throw
+{
+var exc = void
+try {[will_throw()()... ]
+""
+return}
+catch const e {
+  exc =delete e.va} yield" "
+}try {[ will_throw()... ]
+}
+catch const e {} 0->(XX,k=60->(XX=6>(XX,X=50->(XX,k=60->(X=5)=>X,XY=6,X=5)=>X)=>X,Y=6,X=5)=>6,X=5)=>X

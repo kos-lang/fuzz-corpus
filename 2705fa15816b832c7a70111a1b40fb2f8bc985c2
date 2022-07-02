@@ -1,0 +1,16 @@
+fun will_throw
+{
+ try {
+[ will_throw()]
+""}
+catch const e { }
+
+try {   [ will_throw()... ] [async will_throw() ]
+}catch const e {}[][0]
+1
+}
+var exc = void
+try {[ will_throw()...]
+}catch const e {
+}
+ exc

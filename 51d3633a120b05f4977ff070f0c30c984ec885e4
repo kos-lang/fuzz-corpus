@@ -1,0 +1,12 @@
+fun will_throw
+{
+try {[ will_throw()... ]
+}catch const e {[9][~~~~~~~~~~~~~~~~~~~~~[0][0]]&=1
+}try{delete 1[will_throw()]
+}catch const e {
+} 1}
+try {[ will_throw()...]
+}
+catch const e {e
+}
+

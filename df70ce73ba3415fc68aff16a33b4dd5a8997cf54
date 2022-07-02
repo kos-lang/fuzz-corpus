@@ -1,0 +1,7 @@
+fun {defer{yield
+8
+yield
+9
+yield
+8
+yield-1}0}

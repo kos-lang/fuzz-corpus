@@ -1,0 +1,14 @@
+fun will_throw{
+try {
+  [ will_throw()... ]
+""}
+catch const e { }
+
+try {[will_throw()... ]
+}
+catch const e {delete{}.v# 
+} yield 17
+}
+try {[ will_throw()... ]}
+catch const e {
+}

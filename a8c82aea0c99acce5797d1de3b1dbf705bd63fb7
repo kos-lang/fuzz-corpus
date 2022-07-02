@@ -1,0 +1,9 @@
+while"ii"[:][1][:]{fun will_throw
+{try {[ will_throw()... ]
+}
+catch const e {e.v
+}}try {[will_throw()]
+}
+catch const d{}
+2
+->w=>w=>2}

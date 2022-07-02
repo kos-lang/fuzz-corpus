@@ -1,0 +1,6 @@
+fun make_it{ fun inner{
+fun make_it(z)
+{ inner(z)
+}make_it(30)
+ }inner()
+}make_it(98)

@@ -1,0 +1,2 @@
+const obj={}
+for const v in" gen"{for const v in v{for const v in obj{}}}

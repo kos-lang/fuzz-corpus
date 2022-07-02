@@ -1,0 +1,6 @@
+while{}{defer{defer{defer{defer{fun will_throw
+{
+}
+try {[!will_throw... ]
+}
+catch const e {}}}}}}

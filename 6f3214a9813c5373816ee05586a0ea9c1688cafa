@@ -1,0 +1,9 @@
+fun will_throw
+{try { [ will_throw(), 3, "rfid "... ]}
+catch const e  {e
+}
+
+}
+try { [will_throw() ]
+}
+catch const er{}

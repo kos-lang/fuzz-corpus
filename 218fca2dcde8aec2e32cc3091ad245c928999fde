@@ -1,0 +1,33 @@
+import re.re
+fun will_throw
+{
+  var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+try {
+   var exg = void
+try {[ will_throw(). will_row()... ]
+""}
+catch const e { e
+}
+re("}}}}}}}}~}}}}0->(XX,Y=6,X=50->(XX,k=60->(XX,k=6,Y=0->(XX,0->(XX,k=k=60->(XX,k=(X=50->(XX,k0->(XX,k=,,X=50->(XX=5)=>X6,X=5)=>X,Y=6,X=5)=>X)=>X,Y=0->(XXY=5)=>X,X=5)==>}}}}}}}}}X,XY=6,X=5)=>X}}_f󝄂=}}}}}}}տ??["...)
+try {[ will_throw()... ]
+}
+catch const e { exc/=delete e.vqlu}
+
+""}
+catch const e { exc/=delete e.wqlu}
+
+
+}
+void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+assert exc

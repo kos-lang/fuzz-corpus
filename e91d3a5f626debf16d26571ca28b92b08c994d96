@@ -1,0 +1,56 @@
+const obj =class{
+}
+for const v in "typeofd" {const obj =class{
+}
+for const v in "d" {
+for const v  in v{
+for const dv in obj {
+for const v in!obj {v
+}}
+}}fun will_throw
+{void
+try {fun range{for const x in range( ) {}yield{ }}
+for const x in range( ) {
+} [ will_throw()]
+}
+catch const e {e.value
+}
+
+
+try { [3, will_throw()... ]
+}
+catch const e {}
+
+}
+var a = void
+try {[will_throw()... ]
+}
+catch const e{e
+}
+a
+->w=>g=>ww=>g
+for const v  in v{
+for const dv in obj {
+}
+}}fun will_throw
+{void
+try {fun range{for const x in range( ) {}yield{ }}
+for const x in range( ) {
+} [ will_throw()]
+}
+catch const e {e.value
+}
+
+
+try { [3, will_throw()... ]
+}
+catch const e {}
+
+}
+var a = void
+try {[will_throw()... ]
+}
+catch const e{e
+}
+a
+->w=>g=>ww=>g>ww

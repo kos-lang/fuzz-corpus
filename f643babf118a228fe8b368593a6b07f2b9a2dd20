@@ -1,0 +1,4 @@
+switch!4{case-1,5{throw""}}var a= void
+try {}catch const e {switch!4{case-5{ throw"00"}}
+}!
+a

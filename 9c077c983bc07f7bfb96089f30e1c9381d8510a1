@@ -1,14 +1,0 @@
-fun (z)
-{  fun inner(y)
-{class Base { }class Derived extends Base
- { constructor{defer{defer{defer{defer{;defer{defer{defer{ defer{defer{defer{defer{;defer{defer{defer{switch!6{case-6,5,4,2,5,6<5,6,5%6,5,z,5:{1}} super()
-super()
-.super()
-  super()
-}return}return}return}}return}return}   super()
-super()
-  super()
-}return}return}return}}return}return}}  } Derived(y)
-}
-   inner(z)
-}

@@ -1,0 +1,8 @@
+while"ii"[:]{fun will_throw{try {  [ will_throw()... ]
+}
+catch const e{e.AAAAAAAAAAAAAAAAAdeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+}
+
+}
+try {[will_throw()... ]
+}catch const e{5}2}

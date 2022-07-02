@@ -1,8 +1,0 @@
-fun (source)
-{
-for var elem in source {fun pop{ fun _4(e){
-for elem in e {}
-}
-1}}
-//}
-}

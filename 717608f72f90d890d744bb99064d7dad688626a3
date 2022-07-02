@@ -1,14 +1,0 @@
-fun will_throw
-{
-try {[ will_throw()... ]
-}
-catch const e {[0][[0][0]]&=1
-}try{ 1[ will_throw()]
-}catch const e {
-}return 18
-}
-try {[ will_throw()... ]
-}
-catch const e {e
-}
-

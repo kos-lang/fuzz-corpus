@@ -1,24 +1,0 @@
-fun will_throw
-{
-  void
-var exc = void
-try {
-  [ will_throw()... ]
-""}
-catch const e { vara=1;defer{defer{defer{defer{;defer{defer{}return}defer{defer{1[a]=0}vara=1;1[a
-]=0}}defer{defer{defer{defer{;return}}}}}}} exc ^delete e.v
-}
-
-try { [ will_throw... ]
-}
-catch const e {
-    exc = e.va}
-
-18
-}
-try {[ will_throw()... ]
-}
-catch const e {
- e
-}
-1#as

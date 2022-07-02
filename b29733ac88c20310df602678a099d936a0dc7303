@@ -1,6 +1,0 @@
-fun will_throw{var a  =void
-try{a =[a]
-a =[will_throw ]
-a= [ will_throw]
-}
-catch const e{}}

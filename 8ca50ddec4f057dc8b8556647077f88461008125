@@ -1,0 +1,9 @@
+fun will_throw{
+ 
+
+vara=4;defer{defer{defer{defer{a,a=a}}return}}
+yield 18
+}
+try {[ will_throw()... ]
+}
+catch const e {}

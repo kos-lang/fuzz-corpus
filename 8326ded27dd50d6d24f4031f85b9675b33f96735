@@ -1,0 +1,19 @@
+fun will_throw
+{
+ var a= void
+try { [ will_throw()... ]
+}
+catch const e {}
+
+try {
+[ will_throw()... ]
+}
+catch const e {a=707a&=11-1e30
+a*3
+.l}
+
+}
+void
+try { [will_throw()... ]
+}
+catch const e{e}

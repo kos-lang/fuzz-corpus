@@ -1,0 +1,9 @@
+import re.re
+fun will_throw{
+try {
+[ will_throw()]
+""}
+catch const e { }
+re("{(")}var exc = void
+try {[-will_throw()]
+}catch const e {} exc

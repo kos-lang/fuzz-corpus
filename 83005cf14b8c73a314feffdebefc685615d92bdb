@@ -1,0 +1,7 @@
+while"pg"[:]{fun will_throw
+{with-0,5,0,6,5{} 
+}try {[will_throw()]
+}
+catch const e{e
+}
+}

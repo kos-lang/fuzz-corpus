@@ -1,0 +1,10 @@
+while"'"[:][1:][:]{fun will_throw
+{with-5,5,0,6,5{}}
+try { [will_throw()]
+}
+catch const e{e
+}
+0
+->w=>
+8
+defer{{}}2}

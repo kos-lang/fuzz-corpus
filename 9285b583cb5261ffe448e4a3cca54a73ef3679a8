@@ -1,0 +1,8 @@
+import re.re
+re("#").find("")
+re("\>").find("")
+re("\]").find("Y")
+
+re("\>#").find("Y")
+re("").find("Y")
+re("").find

@@ -1,0 +1,8 @@
+fun will_throw
+{
+try {  [ will_throw[[5]:]() ]
+}
+catch const e {}}void
+try {[will_throw()[[0]:]()]
+}
+catch const e {5}

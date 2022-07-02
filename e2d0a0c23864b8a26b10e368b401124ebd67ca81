@@ -1,0 +1,18 @@
+fun will_throw
+{
+
+try{  [[5[:]] ]
+}
+catch const e {
+}
+
+try {[will_throw()... ]
+}
+catch const e {
+
+}
+
+}
+try {[will_throw()]
+}
+catch const r{50}

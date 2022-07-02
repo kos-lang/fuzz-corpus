@@ -1,0 +1,9 @@
+public fun range {defer{
+defer{defer{defer{for const x in-(2) {for const xx in range{
+defer{defer{defer{for const x in- range() {for const x in range(1,3,x) {
+}}
+
+}
+return}return}return}{
+}}
+}return}return}return}return}

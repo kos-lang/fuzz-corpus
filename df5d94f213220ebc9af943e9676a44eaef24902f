@@ -1,0 +1,18 @@
+fun will_throw
+{try {  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+ vara=6;defer{defer{}defer{defer{[2<9&&0][-~[6e9][1<9&&[17&&0][0]]++9]&&1}}returna}return}
+catch const e {
+ delete[!e[e[delete[].M].M].M].M1V.N}
+
+}
+var a  = void
+try {[ will_throw()...]
+}
+catch const e { e
+}
+a

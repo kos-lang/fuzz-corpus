@@ -1,0 +1,33 @@
+fun will_throw
+{
+
+var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+!    [ will_throw()... ]
+}
+catch const e { exc %=delete e.value
+}
+
+try {
+ [ will_throw()... ]
+}
+catch const e {
+ }
+//[O[0
+0[!0]
+=1
+1[0]/=2
+try {}
+catch const e {
+} yield 18
+}
+try {[ will_throw()... ]
+}
+catch const e {
+defer{defer{defer{return}return}return}return}

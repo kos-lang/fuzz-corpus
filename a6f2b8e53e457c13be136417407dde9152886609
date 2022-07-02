@@ -1,0 +1,26 @@
+import re.re
+fun will_throw
+{
+  var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+try {
+try {[  ]
+}
+catch const e { exc/= e.vql}
+
+[ will_throw()... ]
+""}
+catch const e { e
+}
+re()
+}
+void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ }

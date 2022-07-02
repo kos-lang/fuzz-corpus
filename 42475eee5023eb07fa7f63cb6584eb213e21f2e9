@@ -1,2 +1,0 @@
-import re.re
-re("[^w=g]").find("g=w")

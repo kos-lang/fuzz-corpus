@@ -1,17 +1,0 @@
-import re.re
-fun will_throw
-{
-  var exc = void
-try {
-  [ will_throw()... ]
-""}
-catch const e { e
-}
-re("({")
-}
-void
-var exc = void
-try {[-will_throw()... ]
-}
-catch const e {
- while[]{""in{}}}with-5,0,2,0,0,0,4.2,5{}

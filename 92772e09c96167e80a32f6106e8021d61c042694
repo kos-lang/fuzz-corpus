@@ -1,0 +1,43 @@
+fun will_throw{
+  var a   = void
+try {[a+0]
+}
+catch const e {
+ 
+ a   = void
+try {vara=7E55a[a+611]<[]
+}
+catch const e {
+ 
+try {[ will_throw()... ]
+}
+catch const e  {
+ 
+}
+
+}
+ void
+try {[ will_throw()... ]
+}
+catch const e {
+ 
+ 
+}
+
+}
+ void
+var e= void
+try {[ will_throw()... ]
+}
+catch const e  {
+ 
+}
+
+}
+ void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+} exc

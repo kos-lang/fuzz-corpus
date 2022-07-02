@@ -1,0 +1,25 @@
+fun will_throw
+{
+  var exc = void
+try {
+  [ will_throw()]
+""}
+catch const e { e
+}
+
+try {
+ [ will_throw()... ]
+}catch const e {
+ }
+
+try { [ will_throw... ]
+}
+catch const e {
+    exc =e[e[delete[delete[delete[delete[[delete[[[delete[delete[].N].M].M].M2Y.M].M].M].M5].M].M].M].M1].M}
+}
+try {[ will_throw()]
+}
+catch const e {
+ e
+}
+#as

@@ -1,12 +1,0 @@
-fun will_throw
-{[[(X...)=>(X)]>(X...)=>(X)]->(X...)=>(X)
-
-try{[  will_throw()...]
-.ca = [ will_throw()...  ]
-}catch const e {
-} yield 18
-}
-var exc = void
-try {[ will_throw()... ]
-}
-catch const e{} exc

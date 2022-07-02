@@ -1,18 +1,0 @@
-fun will_throw
-{
- var a   = void
-try {a = [will_throw()... ]
-}
-catch const e{e
-}
-a>= void
-try {  [ will_throw()...  ]
-}
-catch const e {vara=707aa&=1e30
-}
-
-}
-var a = void
-try {a= [will_throw()... ]
-}
-catch const e{5}

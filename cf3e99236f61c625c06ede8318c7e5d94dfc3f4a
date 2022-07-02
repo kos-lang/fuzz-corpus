@@ -1,0 +1,26 @@
+fun will_throw
+{
+ 
+try {
+  [ will_throw()... ]#
+}
+catch const _throw
+{
+ 
+try {
+  [_throw().t()... ]
+}
+catch const e {
+ }
+1
+ yield 36
+}
+try {[ will_throw()... ]
+}
+catch const ee {
+ }
+[5][0]/= yield 3}
+try {[ will_throw()... ]
+}
+catch const e {
+}

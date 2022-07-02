@@ -1,0 +1,20 @@
+fun make_it(z)
+{fun inner(y)
+  {   class Base
+   {
+    } class Derived extends Base
+ {
+ constructor  {  vara=2a=  super(a)
+      class Derived extends Base
+ { constructor  {
+class Derived extends Base
+ { constructor   {
+   vara=8a=-  super(a)} }
+   Derived()
+vara=6a=  super(a)}
+    }Derived(y)
+   super()}
+  }
+   Derived(y) }
+ return inner(z)
+}

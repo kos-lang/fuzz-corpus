@@ -1,0 +1,13 @@
+fun will_throw
+{
+try {"r"+R"6"+5
+ }
+catch const e {
+ }
+try {
+ [ will_throw()... ]
+}
+catch const e {
+}}try {[ will_throw()... ]
+}
+catch const e {}with-2,0,0.5{}

@@ -1,0 +1,14 @@
+fun make_it(z)
+{ fun inner(y) {
+class Base
+ {
+     }
+class Derived extends Base
+{
+    constructor(x)
+{    super()&      super
+super& super } }
+Derived(y)}inner(z)
+}
+const o = make_it(55)
+30

@@ -1,0 +1,11 @@
+fun will_throw
+{void
+try {
+ [+3+will_throw() ]
+""}catch const e { }try { [ will_throw()]}
+catch const e {
+}}void
+try {[ will_throw()]
+}
+catch const e {
+}

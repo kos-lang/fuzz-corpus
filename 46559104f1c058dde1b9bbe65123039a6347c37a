@@ -1,0 +1,18 @@
+fun will_throw
+{
+  void
+var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e { vara=1;defer{defer{defer{defer{;defer{defer{}defer{1[e]=0}1[a
+]=0}}defer{defer{}}}}} exc ^delete e.v
+exc =a}
+
+18
+}
+try {[will_throw()]
+}
+catch const e {
+ e
+}

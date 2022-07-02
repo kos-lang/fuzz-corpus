@@ -1,0 +1,2 @@
+public fun range {}for const x in range(0,5,4-3) {}for const x in range(2,5,55-5){}for const x in range(2,55,5-3){
+}

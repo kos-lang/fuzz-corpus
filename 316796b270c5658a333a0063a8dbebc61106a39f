@@ -1,0 +1,12 @@
+fun will_throw
+{
+ try {vara=55000057*55a[a]=[ will_throw()]
+""}
+catch const e {
+ }
+
+}
+try {[ will_throw()... ]
+}
+catch const e {
+}

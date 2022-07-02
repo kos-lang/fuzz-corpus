@@ -1,0 +1,4 @@
+while{}{defer{while{}{defer{
+var a = void
+try {a
+}catch const er{5}defer{defer{continue}return}return}break}return}break}

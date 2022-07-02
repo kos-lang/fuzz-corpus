@@ -1,0 +1,11 @@
+fun will_throw
+{var exc =void
+try {
+try {[-will_throw()]
+}catch const e {} [ will_throw()...]
+}
+catch const e {exc -=e.vq}yield 18
+}try {[ will_throw()... ]
+}
+catch const e {
+}

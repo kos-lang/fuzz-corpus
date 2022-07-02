@@ -1,2 +1,0 @@
-import re.re
-re("n{1,}n{0,}")

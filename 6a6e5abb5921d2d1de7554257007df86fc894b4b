@@ -1,0 +1,17 @@
+import re.re
+fun will_throw
+{
+try {
+[ will_throw()...] 
+}
+catch const e
+ {
+try {[ will_throw()... ]
+}
+catch const e { e
+}
+ #
+[re("\\[\\").fin]} }try {[ will_throw()... ]
+}
+catch const e { e
+}re("\[\\")

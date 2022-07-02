@@ -1,0 +1,15 @@
+fun will_throw{try {
+  [ will_throw()... ]
+""}
+catch const e {}
+vara=4;defer{defer{defer{defer{a,a=a};defer{}
+3}return}
+3}try {   [ will_throw()...]
+}catch const e { }
+yield 18
+}
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {}
+assert!exc

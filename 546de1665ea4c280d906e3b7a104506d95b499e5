@@ -1,0 +1,17 @@
+switch!4{case-6,5{ throw"}01"}}fun will_throw
+{
+}
+var a = void
+try {[ will_throw()... ]
+}
+catch const e {switch!4{case-6,5{ throw"}01"}}fun will_throw
+{switch!4{case-6,5{ throw"1"}}}
+ void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+ e
+}!
+a

@@ -1,0 +1,22 @@
+import re
+fun will_throw
+{
+ 
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+"J"}
+
+try {
+  [ will_throw(re[:])... ]
+}
+catch const _th{
+}
+
+ yield 72
+}try {[ will_throw()... ]
+}
+catch const e {
+8
+}with-5,0,2,0,0,0,4.0,5{}

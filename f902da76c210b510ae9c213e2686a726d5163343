@@ -1,0 +1,18 @@
+fun will_throw
+{
+
+try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {  [ will_throw()... ]
+}
+catch const e {-0.++e} #ield8
+}
+void
+try {[ will_throw()... ]
+}
+catch const e {
+ }4+0;defer{throw{}}-~--5;defer{throw{}}1;defer{throw{}}defer{throw{}}-~4e3defer{throw{}}-~635;defer{throw{}}defer{{}};--5;defer{throw{}}defer{}5;defer{throw{}}-35;defer{throw{}}-5;defer{throw{}}defer{throw{}}-~1;defer{throw{}}defer{throw{}}defer{throw{}};defer{throw{}}defer{throw[]};defer{throw{}}defer{throw{}}defer{throw{}}-5;defer{throw{}}defer{throw{}};defer{throw{}}defer{throw{}}0;defer{throw{}};defer{throw{}}40;defer{}--5;defer{throw{}};defer{throw{}}-~4;defer{throw{}}5;defer{throw{}}

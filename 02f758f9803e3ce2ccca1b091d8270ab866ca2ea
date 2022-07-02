@@ -1,0 +1,11 @@
+importre:refun will_throw
+{
+ try { [ will_throw()]}
+catch const e {7
+->re
+}}try { [will_throw()]
+}
+catch const e{e
+}
+
+8

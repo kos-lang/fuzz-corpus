@@ -1,0 +1,24 @@
+import re.re
+fun will_throw
+{
+try {
+[ will_throw() ]}catch const e {
+fun will_throw
+{
+try {
+[ will_throw() ]}catch const e {
+ #
+[re("").find(",8">4)]}}try {[ will_throw()... ]
+}
+catch const e { e
+}try{[ will_throw()]
+}
+catch const e { e
+} #
+[re("").find("">8,8*4)]}}try {[ will_throw()... ]
+}
+catch const e { e
+}try {[ will_throw()... ]
+}
+catch const e { e
+}

@@ -1,0 +1,5 @@
+fun{ fun gs(args){ for const o in gs {
+ 
+fun sle{gs(typeof void)}
+}(typeof void)}
+}

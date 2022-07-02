@@ -1,0 +1,15 @@
+fun will_throw
+{try {[ will_throw()... ]}
+catch const e { }
+try {
+ [ will_throw()... ]
+}
+catch const e {}
+[0.5][0]%=0
+yield 8
+}
+var a= void
+try {[ will_throw()... ]}
+catch const e {
+}
+a

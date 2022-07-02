@@ -1,0 +1,17 @@
+while"i"[:][1:][:]{fun will_throw
+{
+
+try { [ will_throw() ]
+}
+catch const e {e.a
+}
+}
+try { [will_throw()... ]
+}
+catch const e{
+}
+
+9
+->w=>pv=>
+8
+defer{}2}

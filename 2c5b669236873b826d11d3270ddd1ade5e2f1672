@@ -1,2 +1,0 @@
-import re.re
-re("(X{0,}n{11,}c{11,}=c")

@@ -1,0 +1,21 @@
+fun will_throw
+{void
+try {
+  [ will_throw( e= void)... ]}
+catch const e { e
+}
+void
+try {[ will_throw()]
+}
+catch const e {
+}7
+
+try {
+ [ will_throw()... ]
+}
+catch const e {
+ }[5.5][0]%=0}
+try{[ will_throw() ]
+}
+catch const e {e
+}8

@@ -1,0 +1,8 @@
+fun the_call(a000=0X000, a001=0X001, a002=0X002, a003=0X003, a004=0X004, a005=0X005, a006=0X0, a021=1, a022=2, a0=0E3, a0E4=0X0E4, a0E5=5, a0EA=0X0EA, a0EBdelete=0X0EB, a0EC=0X0, a0EF=0X00F2, a0F3=0X0F3, a07=0X0F7, a0F8=0X0F8, a0F9=0X0F9A, a0FB=0X0FB, a0FC=0X0FC, a0FD=0X0FD, a0FE=0X0FE, a0FF=0X0FF,
+    a100=0x100)
+{ var a = a000 + a001 + a002 + a0EF +
+a100
+    return a
+}
+const result = the_call(a021=0X021, a022=0X0F7, a0F8=0X0F7)
+assert result

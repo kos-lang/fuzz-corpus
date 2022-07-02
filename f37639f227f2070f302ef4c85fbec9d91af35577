@@ -1,0 +1,13 @@
+public fun range { };for const x in range(0,55-5,5.-3) {fun will_throw
+{
+ var a= void
+var exc = void
+try {   a = [ will_throw()... ]
+}
+catch const e {e.valiiiiaiiiiiiii
+}}
+var a= void
+try{a [will_throw()]
+}
+catch const e{e
+}}

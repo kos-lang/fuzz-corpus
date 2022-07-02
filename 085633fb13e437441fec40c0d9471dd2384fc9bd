@@ -1,0 +1,12 @@
+
+var a   = void
+var exc = void
+try {}
+catch const e {
+
+fun will_throw
+{try{}
+catch const e { exc =e
+}
+}[~will_throw()]
+assert exc}[ ]

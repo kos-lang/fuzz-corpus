@@ -1,0 +1,28 @@
+import re.re
+fun will_throw
+{
+try {
+[ will_throw()...]
+}
+catch const e{
+fun will_throw
+{
+try {[ will_throw()... ]
+}
+catch const e{try {[ will_throw()... ]
+}
+catch const e { e
+}
+[re("").find()]} yield""
+}try {[ will_throw()... ]
+}
+catch const e { e
+}try {[ will_throw()... ]
+}
+catch const e { e
+}
+[re("").find()]}
+}try {[ will_throw()... ]
+}
+catch const e { e
+}

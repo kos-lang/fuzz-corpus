@@ -1,13 +1,0 @@
-fun will_throw
-{  void
-var exc = void
-try {[ will_throw()... ]
-""}
-catch const e {
-  exc ^delete{}.vqlue
-  exc = [!delete[delete[delete[delete[delete[delete[delete[!delete[delete[!delete[].M].M1].M].M].M].M5].M].M].M].M1].M}}void
-try {[ will_throw()... ]
-}
-catch const e {
-}
-#xc

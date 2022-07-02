@@ -1,5 +1,0 @@
-fun range { }
-for const x in!range{for const x in x{}
-for const d in range{
-}
-}

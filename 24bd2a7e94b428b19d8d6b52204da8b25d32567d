@@ -1,9 +1,0 @@
-fun add_5(source)
-{this
-}
-fun mul_3(source)
-{
-    for var elem in source {this
-    yield elem * 3() }
-}
-const i= [4, -2, 1] -3 -> add_5#)

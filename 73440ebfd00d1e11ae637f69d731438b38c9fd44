@@ -1,0 +1,11 @@
+fun {try {fun will_throw{
+try {[ will_throw... ]
+}
+catch const e { 
+}
+
+}
+var a =w=>g=>w=>ww=>w=>ww=>g=>w=>gw=>w=>ww=>ww=>w=>g=>w=>w=>g=>w=>gw=>w=>ww=>ww=>w=>gw=>w=>ww=>w=>Wg=>ww=>gw2=>w=>
+[ will_throw()... ]}
+catch const e {
+ }24}

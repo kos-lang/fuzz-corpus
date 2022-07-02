@@ -1,3 +1,0 @@
-fun range{for const x in range.D( ) {}for const x in range.DD( ) { }for const x in range.D() { }
-for const x in range.y( ){
-}}

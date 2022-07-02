@@ -1,0 +1,10 @@
+import re.re
+
+re("|Y")
+re("|Q")
+re("|c")
+re("|nc")
+re("||")
+re("|Q%c")
+re("|")
+re("D|")

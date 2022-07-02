@@ -1,0 +1,9 @@
+fun will_throw{try{[will_throw()]
+}
+catch const e{ }
+1[0]
+=1
+}try {[ will_throw() ]
+}
+catch const e{
+}

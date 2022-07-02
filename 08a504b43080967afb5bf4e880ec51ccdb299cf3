@@ -1,0 +1,15 @@
+fun will_throw
+{try {
+ [ will_throw()... ]
+}catch const e {}
+
+try{ [ will_throw()... ]
+}
+catch const e {}
+1[0]
+=1
+
+yield 8
+}try {[ will_throw()... ]}
+catch const e {
+}

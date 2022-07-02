@@ -1,15 +1,0 @@
-public fun range {defer{defer{defer{defer{0
-->8
-yield
-async-4->9
-yield
-async
-8->8
-yield
-a2};28
-yield
-async+0
-->8
-yield
-async-4->9
-72}-2};}{};;0}

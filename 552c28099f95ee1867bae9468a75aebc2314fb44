@@ -1,0 +1,15 @@
+fun will_throw
+{}var exc = void
+try {[ will_throw()... ]
+}
+catch const e { fun will_throw
+{
+
+try {
+ [!will_throw... ]
+}
+catch const e {exc =delete e.vv
+}
+}
+[ will_throw()... ]
+assert exc}

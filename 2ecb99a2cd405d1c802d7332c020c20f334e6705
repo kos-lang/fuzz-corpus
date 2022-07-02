@@ -1,0 +1,28 @@
+import re.re
+fun will_throw
+{
+  var exc =("(")
+try {[ will_throw()... ]
+}catch const e {
+  exc||delete e.vqlu}
+
+
+ try {
+  [ will_throw()... ]
+"/="}
+catch const e {}
+re("(4|2{0")
+
+
+}
+var exc = void
+try {[-will_throw()... ]
+}
+catch const e {
+ e
+try {
+  [ will_throw()... ]
+"/"}
+catch const e { e
+}
+} exc

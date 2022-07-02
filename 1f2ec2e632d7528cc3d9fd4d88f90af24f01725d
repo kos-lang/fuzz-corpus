@@ -1,0 +1,8 @@
+ fun range{forconst x in range{}
+for const x in range(){ }for const x in(0) {
+}}
+for const x in range{}for const x in range() {for const x in range{
+}}
+for const x in(5) {}
+for const x in range{
+}

@@ -1,0 +1,1 @@
+public fun range{}for const x in(6){for const x in range(x,3){}for const x in range(x,6){}}

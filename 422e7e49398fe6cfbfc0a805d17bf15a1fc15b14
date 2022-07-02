@@ -1,0 +1,5 @@
+fun a(source)
+{this
+for var elem in  source {
+for elem in source {elem * 3() }
+}}#)

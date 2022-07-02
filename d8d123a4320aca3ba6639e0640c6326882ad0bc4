@@ -1,0 +1,15 @@
+fun will_throw
+{try {  [33,1].st
+}
+catch const e {vara=555>6a&=13}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+
+try {a = [will_throw()... ]
+}
+catch const e{5}

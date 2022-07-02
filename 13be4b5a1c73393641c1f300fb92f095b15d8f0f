@@ -1,0 +1,25 @@
+const obj =class{
+}
+for const v in "" {
+for const v  in v{
+for const vv in obj {
+for const v in!obj {}}
+}}fun will_throw
+{var a=void
+try { [ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+try {[will_throw()... ]
+}
+catch const e {
+ a.le
+}
+}
+var a =void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}ww=>ww

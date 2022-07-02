@@ -1,0 +1,21 @@
+fun will_throw
+{
+try {
+    [].sregi
+}
+catch const e {vara=12a>>>=1%3<77.}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+try {[will_throw()... ]
+}
+catch const e{e
+}
+try {[will_throw()... ]
+}
+catch const e{e
+}

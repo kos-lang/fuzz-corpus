@@ -1,19 +1,0 @@
-fun make_it(z)
-{fun inner(y)  {   class Base
-  {
-    }
-    class Derived extends Base
- {
-    constructor {
- super()
-vara=  {
-}
- class Derived extends Base
- {
-constructor  {
- vara=1->- super
-  }
-   }
- Derived()}  }Derived(y)    }
- return inner(z)
-} make_it(22)

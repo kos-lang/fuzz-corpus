@@ -1,0 +1,29 @@
+import re.re
+fun will_throw
+{
+try {
+[ will_throw()... ] [will_throw ]
+}
+catch const e {
+fun wilw
+{
+try {
+[ ] [will_throw ]
+}
+catch const e {
+ #
+[re("").find("",8,8>4)]} yield""
+yield""
+}try {[ will_throw()... ]
+}
+catch const e { e
+}try {[ will_throw()... ]}
+catch const e { e
+}
+[re("").find("",8,8>4)]}yield""
+}try {[ will_throw()... ]
+}
+catch const e { e
+}try {[ will_throw()... ]
+}
+catch const e {}

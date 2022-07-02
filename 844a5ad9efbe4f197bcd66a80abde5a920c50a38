@@ -1,9 +1,0 @@
-import re.re
-
-re("")
-re("")
-<re("d")
-re("")<re("c")
-re("\\W")
-re("\ddc")
-<re("\\Wc")

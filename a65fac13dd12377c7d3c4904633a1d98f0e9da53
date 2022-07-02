@@ -1,0 +1,12 @@
+while"iiii"[:][1:][:]{fun will_throw
+{try { [ will_throw()... ]
+}
+catch const e {e.le
+}}
+var a= void
+try {a = [will_throw() ]
+}
+catch const e{e
+}
+a
+>g=>w=>w=>g=>ww=>gw=>g=>ww=>3}

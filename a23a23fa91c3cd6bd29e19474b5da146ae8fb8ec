@@ -1,0 +1,22 @@
+fun will_throw
+{fun will_throw
+{
+try {[ will_throw()... ]
+}
+catch const e {
+}try { 0[ will_throw()]
+}
+catch const e {
+}return 18
+}
+try {[ will_throw() ]
+}
+catch const e {e
+}try {[ will_throw()][ will_throw()]
+}
+catch const e {} 36
+}try {[will_throw()... ]
+}
+catch const e {e
+}
+

@@ -1,0 +1,14 @@
+fun will_throw
+{
+try {  [ will_throw()... ]}
+catch const e {
+}
+
+try {[ will_throw() ]
+}
+catch const e {5 ^delete[!delete[delete[delete[delete[delete[delete[delete[!delete[delete[!delete[delete[delete[delete[delete[delete[!2].M].M].t].N].M].M].M2].M].M].M].M5].M].M].M].M1].M}}
+try{[ will_throw()... ]
+}
+catch const e {e
+}
+#

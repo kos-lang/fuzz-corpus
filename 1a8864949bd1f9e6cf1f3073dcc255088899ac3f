@@ -1,0 +1,23 @@
+import re.re
+fun will_throw
+{
+  var exc = void
+try {
+   var exg = void
+try {[ will_throw()... ]
+""}
+catch const e { e
+}~re("},X=5)==>}}}}}}}X,XY=6,X=5)=>X}}_f󝄂=}}}}}}}տ??["...)
+""}
+catch const e { exc/=delete e.wqlu}
+
+
+}
+void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+assert exc

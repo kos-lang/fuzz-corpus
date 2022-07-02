@@ -1,0 +1,42 @@
+importre:refun will_throw
+{
+
+
+try {
+[3, 3, 1].rer = [ will_throw()... ]
+}
+catch const e {
+  e.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+2
+->w=>g=>w=>g//ww=>0
+8
+->w=>g=>ww=>gw=>W=>w=>w>=gw=>gw=>w=>ww=>g=>ww=>g=>ww=>w=>w=>ww=>g=>ww=>gw=>ww_=>gw=>w=>ww=>gw=>W=>fun (z)
+{  fun inner(y)
+{class Base {  }class Derived extends Base
+ { constructor{defer{defer{defer{defer{;defer{defer{defer{ defer{defer{defer{defer{;defer{defer{defer{sw=>void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8
+->w=>g=>w=>g=>www=>gw_=>void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a-
+8}return}return}}return}return} 
+}return}return}return}}return}}  }  }} Derived(y)
+}
+   inner(z)
+}

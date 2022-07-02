@@ -1,18 +1,0 @@
-fun will_throw
-{void
-try {
-  [ will_throw(xc = void)... ]
-""}
-catch const e { e
-}
-
-try {
- [ will_throw()... ]
-}catch const e {
- }
-[5.5][0]%=0}
-try {[ will_throw()...]
-}
-catch const e {
- e
-}9

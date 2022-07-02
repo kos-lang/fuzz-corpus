@@ -1,0 +1,32 @@
+importre:refun will_throw
+{
+ var a = void
+try { a = [ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+try { [3,  1].rers = [ will_throw() ]
+}
+catch const e {
+  e.a.l
+}
+
+}
+var a = void
+try {a = [will_throw()... ]}
+catch const e{e
+}
+
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+7
+->w=>w=>w=>0
+8>w=>g=>ww=>gw=>W=>w>w_=>gww=>ww=>9
+0>w=>g=>www=>gw=>ww_=>g=>ww=>pv=>
+8
+defer{5}

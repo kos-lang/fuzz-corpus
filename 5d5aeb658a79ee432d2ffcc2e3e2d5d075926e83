@@ -1,6 +1,0 @@
-while{}{while{}{defer{defer{defer{defer{defer{fun will_throw{void}
-var a = void
-try {a = [will_throw().fun]
-return}
-catch const e{e
-}return};}return}return}break}return}return}

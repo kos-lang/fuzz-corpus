@@ -1,8 +1,0 @@
-import re.re
-re("$.*").find("a")
-
-re("").find("")
-
-re("$").find("7")
-
-re("$").f

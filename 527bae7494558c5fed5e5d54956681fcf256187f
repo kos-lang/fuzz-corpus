@@ -1,0 +1,10 @@
+fun will_throw
+{
+try { [!will_throw()...]}
+catch const e {delete e.value
+e.value
+} yield 1
+}
+try {[will_throw()... ]
+}
+catch const e {}[ will_throw()...]

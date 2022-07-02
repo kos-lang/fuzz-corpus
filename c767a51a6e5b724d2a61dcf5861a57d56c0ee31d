@@ -1,0 +1,28 @@
+fun will_throw
+{
+var a  = void
+try {[ will_throw()... ]
+}catch const e {e
+}
+"ã"<""[1:]
+
+try {
+[0, 3& 1()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+[ will_throw() ]
+}
+catch const e {
+ }
+
+}
+var a = void
+try {a= [will_throw()... ]
+}
+catch const e{
+defer{defer{defer{defer{defer{defer{defer{defer{a.syn
+8->2}}return}return}}return;}return}}return}return

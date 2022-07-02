@@ -1,0 +1,5 @@
+fun will_throw{try {[ will_throw()]
+}catch const e {delete e.q/e
+}}try{[ will_throw()]
+}
+catch const e {}

@@ -1,0 +1,2 @@
+fun gen2{fun yield_args{yield_args(gen2...)}}fun{ const i=yield(gen2)
+}

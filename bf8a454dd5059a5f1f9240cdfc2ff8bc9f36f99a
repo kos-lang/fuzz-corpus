@@ -1,0 +1,29 @@
+const obj =class{
+}
+for const v in "neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed" {
+for const v  in v{
+for const vy in obj {
+for const v in!obj {v
+}}
+}}fun will_throw
+{try {fun range{for const x in range() {}yield{ }}
+for const x in range( ) {
+} []
+}
+catch const e {e.value
+}
+
+
+try {
+    [0, 3, will_throw()... ]
+}
+catch const e {}
+
+}
+var a = void
+try {[will_throw()... ]
+}
+catch const e{e
+}
+a
+->w=>g=>ww=>w

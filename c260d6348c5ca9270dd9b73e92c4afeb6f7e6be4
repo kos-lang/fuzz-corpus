@@ -1,7 +1,0 @@
-public fun r{defer{
-yield
-async+0
-->8
-yield-4->9
-yield
-8->1}5;;0}

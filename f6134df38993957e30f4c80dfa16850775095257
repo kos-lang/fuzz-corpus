@@ -1,0 +1,15 @@
+fun will_throw
+{
+try { [will_throw()... ]
+""}
+catch const e {}
+
+try {[ will_throw()... ]
+}
+catch const e {0*+e
+}
+}
+try {[ will_throw()... ]
+}
+catch const er{8
+}with-5,0,2,0,4,5{}

@@ -1,0 +1,11 @@
+while{}{defer{while{}{defer{}defer{fun will_throw
+{void
+try {[  ]
+}
+catch const e {
+ }
+
+}
+try {[will_throw()... ]
+}
+catch const efe{defer{continue}return}}break}return}break}

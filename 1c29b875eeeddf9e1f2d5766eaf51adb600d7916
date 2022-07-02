@@ -1,0 +1,31 @@
+try {try {try{try {
+for var z in [""."܈\x{400197}" ] {}
+}
+catch const e {
+
+}
+}
+catch const e {}}
+catch const e{}
+}
+catch const e {e
+}
+try {try {try{try {
+for var z in [""."܈\x{400197}" ] {}
+}
+catch const e {
+
+}}
+catch const e {}try{try {
+for var z in [""."܈\x{400198}" ] {}
+}
+catch const e {
+
+}
+}
+catch const e{}}
+catch const e{e
+}
+}
+catch const e {e
+}

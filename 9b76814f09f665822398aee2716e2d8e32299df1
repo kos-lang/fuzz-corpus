@@ -1,0 +1,5 @@
+const obj={}
+for const v in"d"{
+for const v in v{switch!obj {
+}for const v in v{switch!8{default{throw""}}
+}}}

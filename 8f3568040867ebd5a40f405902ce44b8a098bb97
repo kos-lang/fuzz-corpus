@@ -1,9 +1,0 @@
-fun adH_5(source)
-{
-for var elem in source {fun mul_3()
-{ for var m in source{fun add_5(e){
-for elem in e {}
- mul_3 -add_5}
-1}}
-  }
-}

@@ -1,0 +1,8 @@
+while{}{defer{while{}{defer{}defer{fun will_throw
+{
+
+}
+var a = void
+try {[will_throw()... ]
+}
+catch const efe{defer{continue}return}}break}return}break}

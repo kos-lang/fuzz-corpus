@@ -1,0 +1,23 @@
+fun will_throw
+{
+  void
+var exc = void
+try {
+  [ will_throw()... ]
+""}
+catch const e { vara=1;defer{defer{defer{defer{const obj=class{
+}
+for const v in "gen33or_end" {
+for const v  in v{
+for const k,v in obj {
+}};defer{defer{2[a]=0}defer{defer{;return}}}}}}} exc.v
+} exc = e.va}
+
+18
+}
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}
+1#is

@@ -1,0 +1,2 @@
+const obj=class{}
+for const v in"nd"{for const v in obj{}}

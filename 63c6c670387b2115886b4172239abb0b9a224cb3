@@ -1,0 +1,26 @@
+import re
+fun will_throw
+{
+ 
+try {
+  [ will_throw()... ]
+""}
+catch const e { }
+
+try {
+  [ will_throw(re[:])... ]
+}
+catch const _w
+{try {
+  [ will_throw()... ]
+}
+catch const e {
+ }
+}
+
+38
+}
+var a  = void
+try {[ will_throw()... ]
+}
+catch const e{}

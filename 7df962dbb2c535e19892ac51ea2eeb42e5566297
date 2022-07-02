@@ -1,0 +1,15 @@
+fun will_throw
+{try {vara=5a[a+1E51]=[]
+}
+catch const e {
+}
+
+try {  [ will_throw()... ]}
+catch const e {
+}
+
+}
+try {[ will_throw()... ]
+}
+catch const e {e
+}

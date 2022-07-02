@@ -1,0 +1,26 @@
+fun will_throw
+{
+try {
+ [ will_throw()... ]
+}
+catch const e {
+ }
+
+try {  [ will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+ vara=5;defer{defer{defer{[0][-[6999999999999e9][1&&[17&&0][3<9&&0]]++9]&&1}returna}}return
+}
+catch const e {
+}
+
+}
+var exc = void
+try {[ will_throw()]
+}
+catch const e {
+ e
+}

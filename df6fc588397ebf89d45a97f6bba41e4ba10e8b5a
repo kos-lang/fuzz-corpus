@@ -1,0 +1,1 @@
+try{for var x in[6]{}}catch const e{}

@@ -1,4 +1,0 @@
-try {for var x,z in[ 6] {}
-}
-catch const e{
-}

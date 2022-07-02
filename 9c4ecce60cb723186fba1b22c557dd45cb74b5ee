@@ -1,15 +1,0 @@
-fun will_throw
-{
-try {
-  [ will_throw()]
-""}
-catch const e { e
-}try {
- [ will_throw()... ]
-}
-catch const e {-0.*+e} #i
-}
-
-try {[ will_throw()... ]
-}
-catch const e {}with-5,0,0,4,0,5{}

@@ -1,0 +1,12 @@
+fun will_throw
+{
+try {[ will_throw()]}
+catch const e {}try { [1()... ]
+}catch const e {
+}
+
+}
+var a = void
+try {a[will_throw() ]
+}
+catch const e{}

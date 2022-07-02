@@ -1,0 +1,13 @@
+import re.re
+fun will_throw
+{try {
+  [ will_throw() ]
+}
+catch const e { }
+re("(???")
+}
+try {[ will_throw()... ]
+}
+catch const e {
+}
+ 

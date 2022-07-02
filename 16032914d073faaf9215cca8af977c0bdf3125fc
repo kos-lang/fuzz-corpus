@@ -1,0 +1,13 @@
+fun will_throw
+{try {  [will_throw()... ]
+}
+catch const e { }
+try {
+[ will_throw() ]
+}
+catch const e {delete e.u<<e
+}
+
+}try{[ will_throw()... ]
+}
+catch const e {}

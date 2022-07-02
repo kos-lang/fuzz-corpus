@@ -1,0 +1,5 @@
+fun will_throw{try { [ will_throw()... ]
+}
+catch const e {
+defer{defer{defer{defer{defer{defer{defer{;defer{defer{yield  e
+}}return}return}return}}}}return}}return}

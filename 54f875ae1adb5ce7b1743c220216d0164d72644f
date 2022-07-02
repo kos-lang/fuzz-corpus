@@ -1,0 +1,9 @@
+while"ii'"[:][1:][:]{fun will_throw
+{with-4,5,0,6,5{} 
+}try{[will_throw() ]
+}
+catch const e{e
+}
+8>pv=>
+8
+defer{}2}

@@ -1,0 +1,4 @@
+import re
+re&&re[("rege")[:2]]
+&&re[("rege")[:2]]
+re&&re[[1]]

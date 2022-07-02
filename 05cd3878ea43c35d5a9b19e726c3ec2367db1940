@@ -1,0 +1,6 @@
+const ob ={r: fun{ const obj=0
+for const v in obj{for const v in v{for const v in obj{for const v in obj{
+}}}}
+for const v in obj{for const v in v{for const v in obj {for const v in obj{
+}}}}}
+}

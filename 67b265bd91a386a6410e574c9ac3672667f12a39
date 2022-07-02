@@ -1,0 +1,8 @@
+fun will_throw{
+try {
+ [ 18
+... ]
+}catch const e{delete e.value
+ e.value.v
+}}
+var exc =[ will_throw()...]

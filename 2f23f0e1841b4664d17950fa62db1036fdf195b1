@@ -1,0 +1,25 @@
+fun will_throw
+{
+ var a = void
+try {[ will_throw()... ]
+}
+catch const e {e
+}
+
+
+try {[].sr= [ will_throw()... ]
+}
+catch const e {
+  e.a.le
+}
+
+}
+var a = void
+try {[will_throw()... ]
+}
+catch const e{}
+a=
+2
+->w=>g=>w=>ww=>8
+->w=>g=>w=>w=>ww=>5
+7777777777777777778

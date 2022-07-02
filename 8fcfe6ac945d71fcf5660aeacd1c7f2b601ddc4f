@@ -1,0 +1,16 @@
+fun will_throw{
+  try {
+  [ will_throw()... ]
+""}catch const e { e
+return}
+
+vara=4;defer{defer{defer{defer{a,a=a};defer{defer{defer{a,a=a}}return}
+3}return}
+3}
+[][~0]
+ yield 8
+}
+var exc = void
+try {[ will_throw()... ]}
+
+catch const e{}exc

@@ -1,0 +1,24 @@
+fun will_throw
+{
+try { [ will_throw() ]
+}
+catch const e {
+}
+
+
+try {
+[3, 3, "rfind "... ]
+}
+catch const e {e
+}
+
+try { [ will_throw()... ]
+}
+catch const e {
+ 
+}
+
+}
+try { [will_throw()... ]
+}
+catch const ef{5}

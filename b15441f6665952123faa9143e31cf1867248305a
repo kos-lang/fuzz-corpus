@@ -1,0 +1,14 @@
+import re.re
+fun will_throw
+{
+try {
+[ will_throw().w ]
+}
+catch const e {
+
+[re("").find("",7,8>4)]} }try {[ will_throw()...]
+}
+catch const e { 
+}try {[ will_throw()... ]
+}
+catch const e {}

@@ -1,0 +1,2 @@
+try {
+for var z in[""."\x{400197}"] {}}catch const e{}

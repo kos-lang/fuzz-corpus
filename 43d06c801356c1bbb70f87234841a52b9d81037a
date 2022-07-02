@@ -1,0 +1,18 @@
+fun will_throw
+{
+try {[ will_throw[""[1]:]... ]
+}
+catch const e {e
+}try { [ will_throw() ]
+ with-0,5,66{} [ ]
+}
+catch const e {
+ }
+
+}
+var a =void
+try {[will_throw()... ]
+}
+catch const e{e
+}
+a

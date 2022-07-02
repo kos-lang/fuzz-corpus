@@ -1,0 +1,12 @@
+import re.re
+fun will_throw
+{
+ 
+try {  [ will_throw()... ]
+"/="}catch const e {}
+re("({00,")
+}
+try {[-will_throw()...]
+}
+catch const e {
+}

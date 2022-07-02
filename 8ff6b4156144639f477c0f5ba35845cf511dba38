@@ -1,19 +1,0 @@
-fun will_throw
-{
- var a = void
-try {   [will_throw()... ]
-}
-catch const e {e
-}
-
-
-try { [3, 3< 1].is = [ will_throw()... ]
-}
-catch const e {vara=8a>>>=2%3<57}
-
-}
-var a = void
-try {a = [will_throw()... ]
-}
-catch const e{e
-}

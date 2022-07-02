@@ -1,0 +1,14 @@
+import re.re
+re("").find("")
+
+re("$").find("")
+re(".*").find("c")
+
+re("$").find("")
+
+re("").find("0")
+
+re("$*").find("ac")
+re("$.*").find("")
+
+re(".*").find("a")

@@ -1,0 +1,10 @@
+import re.re
+
+re("\\W")
+re("\Wc")
+re("|\Wc")
+re("\\Wd")
+re("\Wdd")
+re("\\Wdc")
+re("\Wi")
+re("\Wddc")

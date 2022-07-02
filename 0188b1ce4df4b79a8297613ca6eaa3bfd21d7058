@@ -1,0 +1,22 @@
+fun will_throw
+{
+  var a   = void
+try {vara=1a=15100000000005557*55a[a*15]=[]}
+catch const e {
+ }
+
+try {  [ will_throw()... ]
+""}
+catch const e { e
+}
+try { [ will_throw()... ]
+}
+catch const e {
+delete[!delete[e[delete[delete[delete[delete[delete[![delete[!e[delete[delete[delete[delete[delete[!2].M].M].zt].N].M].M].M1].M].M].M].M5].M].M].M].M1].M}
+
+}
+try {[ will_throw()... ]
+}
+catch const e {
+ e
+}

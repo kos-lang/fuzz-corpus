@@ -1,0 +1,12 @@
+fun will_throw
+{try { [ will_throw()]}catch const e { e
+}
+
+try {[will_throw()]
+}
+catch const e {
+
+R""+""+2
+}}
+try {[ will_throw() ]}
+catch const e {}

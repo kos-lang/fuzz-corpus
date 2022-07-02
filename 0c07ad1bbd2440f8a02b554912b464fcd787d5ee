@@ -1,0 +1,10 @@
+import re
+fun will_throw
+{
+try {
+[ will_throw()...]
+}
+catch const e {[re().find("">9,4,8)]} yield""
+}try {[ will_throw()... ]
+}
+catch const e{}

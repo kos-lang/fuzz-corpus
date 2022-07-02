@@ -1,0 +1,11 @@
+while{}{defer{fun will_throw
+{void
+
+
+}
+var a = void
+try {a
+}
+catch const er{5}defer{defer{continue}return}while{}{defer{}defer{try {
+}
+catch const er{5}defer{defer{continue}return}return}break}return}break}

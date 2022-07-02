@@ -1,0 +1,16 @@
+fun will_throw
+{
+ 
+try {[ will_throw()... ]
+}
+catch const e {
+}
+
+try {
+[1,will_throw()... ]
+}catch const e {vara=40a^=11-1e30
+5}
+}
+try {[will_throw() ]
+}
+catch const e{}

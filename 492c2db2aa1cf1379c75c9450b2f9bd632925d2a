@@ -1,0 +1,13 @@
+
+for const v in "nd"{
+const obj=class{}
+for const v in "nd"{
+for const v in v{switch!4{default{continue}}
+
+const obj=class{}
+for const v in "nd"{
+for const v in v{switch!3{default{continue}}
+} {
+}
+}{}
+}}}

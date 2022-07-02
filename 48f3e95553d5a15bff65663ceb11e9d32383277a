@@ -1,0 +1,19 @@
+fun will_throw
+{
+ void
+try {
+  [yield will_throw()... ]
+""}
+catch const e { e
+}
+
+try {
+ [ will_throw()... ]
+}
+catch const e {-0.*+++e} }
+var a= void
+try {[ will_throw()... ]
+}
+catch const e {
+ a
+}4+0;defer{throw{}}~1;defer{throw{}}defer{throw{}}defer{throw{}}-5;defer{throw{}}defer{throw{}};defer{throw{}}defer{throw{}}defer{throw{}}-4;defer{{}}defer{};defer{throw{}}defer{throw{}};defer{throw{}};defer{throw{}}40;defer{throw{}}defer{throw{}};defer{throw{}}-~1;defer{throw{}}5;

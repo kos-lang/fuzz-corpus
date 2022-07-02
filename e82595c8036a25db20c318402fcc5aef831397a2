@@ -1,0 +1,15 @@
+import re.re
+fun will_throw
+{
+ 
+try {
+ [ will_throw()... ]
+""}
+catch const e { e
+}
+re("((??"
+)
+}
+try {[-will_throw()]
+}
+catch const e {g=>g}with-5,0,2,0,0,0,4.0,5{}

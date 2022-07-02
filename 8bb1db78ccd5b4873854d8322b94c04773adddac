@@ -1,0 +1,25 @@
+fun will_throw{
+  var exc = void
+try {
+ fun will_throw
+{
+ try {
+ [ will_throw() ]
+}
+catch const e {
+exc&=delete e.vC__>>e
+}
+}
+try {[ will_throw()... ]
+}
+catch const e {
+}with-0,0,2,0,0,0,4,0,5{}[]
+}
+catch const e {
+e>>e
+}
+}
+try {[ will_throw()... ]
+}
+catch const e {
+}with-0,0,0,4,0,5{}

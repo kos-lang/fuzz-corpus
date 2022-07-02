@@ -1,0 +1,14 @@
+fun _it(z)
+{fun inner(y)  { class Base
+ 
+ {
+ constructor {
+
+vara=  {
+}
+ class Derived extends Base{
+constructor  {a=2->- super
+  }}
+ Derived()}  }  }
+ return inner(z)
+}

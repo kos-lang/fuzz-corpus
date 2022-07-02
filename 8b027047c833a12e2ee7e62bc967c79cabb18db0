@@ -1,0 +1,13 @@
+fun will_throw
+{
+
+
+try {[ 2].ss
+}
+catch const e {vara=39a>>>=11e302}
+}
+try { [will_throw()... ]
+}
+catch const e{}try {[will_throw() ]
+}
+catch const e{0}

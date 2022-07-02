@@ -1,0 +1,1 @@
+fun range{for const x in range(){}yield{}}for const x in range(){}

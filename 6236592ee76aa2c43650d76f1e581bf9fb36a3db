@@ -1,3 +1,0 @@
-fun w{var exc = void
-try {}catch const e {defer{defer{defer{defer{defer{defer{defer{repeat{}while exc}return}return}return}return}return}return}return
- }}

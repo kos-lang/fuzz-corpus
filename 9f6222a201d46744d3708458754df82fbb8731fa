@@ -1,0 +1,9 @@
+fun will_throw
+{[]->(X...)=>(X)
+
+try{[ will_throw()...]
+.ca= [ will_throw()...  ]
+}catch const e {
+} yield 18}try {[ will_throw()... ]
+}
+catch const e{}

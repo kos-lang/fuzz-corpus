@@ -1,0 +1,7 @@
+fun will_throw
+{yield 9
+}var a =void
+var exc=void
+try{[ will_throw()... ]}
+catch const e {}[will_throw()...]
+assert exc

@@ -1,0 +1,6 @@
+var a = void
+try {a
+}
+catch const e{e
+defer{defer{defer{defer{defer{defer{defer{defer{defer{}return
+a.sy2}}return}}return}return;}return}}return}return

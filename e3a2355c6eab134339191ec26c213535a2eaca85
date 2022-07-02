@@ -1,0 +1,16 @@
+fun will_throw
+{try{
+  [ will_throw()... ]}
+catch const e {
+}try {
+ [ will_throw()... ]
+}
+catch const e {e
+}try {[ will_throw.pop]
+}
+catch const e {} yield 19
+}
+
+try {[ will_throw()... ]
+}catch const e {
+}

@@ -1,0 +1,15 @@
+import re.re
+fun will_throw
+{ try {
+  [ will_throw()... ]
+""}
+catch const e { e
+}
+re("`([4073-10-\>?")
+
+}
+try {[-will_throw()]
+}
+catch const e {
+ e
+with-0,0,4,1{}}

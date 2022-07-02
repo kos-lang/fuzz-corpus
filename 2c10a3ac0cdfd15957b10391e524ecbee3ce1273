@@ -1,0 +1,8 @@
+fun make_it(z)
+{fun inner(y){class Base{
+} class Derived extends Base
+ {
+fun innr(y){  Derived(y)  }
+  }inner()}
+  inner(z)
+}make_it(45)

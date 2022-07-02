@@ -1,0 +1,20 @@
+fun will_throw
+{
+ var a  = void
+try {  [ will_throw()... ]
+}
+catch const e {
+}try {
+[4, 3, "rfind "... ]}
+catch const e {e
+}
+
+try {[ will_throw()... ]
+}
+catch const e {a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]}
+catch const e{}

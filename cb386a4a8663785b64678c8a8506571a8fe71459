@@ -1,0 +1,9 @@
+fun will_throw
+{
+try { [ will_throw() ]
+}catch const e {defer{defer{defer{defer{defer{8[0]*=0}defer{8[0]*=0}}return}}}}
+}
+var a = void
+try {[will_throw()]
+}
+catch const e{}

@@ -1,0 +1,16 @@
+fun make_it(z)
+{ fun inner{  fun will_throw
+{
+try {
+ [ will_throw() ]
+}
+catch const e {__line__>>e
+} 
+}
+try {[ will_throw() ]
+}
+catch const e {
+
+}with-4,0,2,0,0,0,4,0,5{}}inner(z)
+}
+const o = make_it(92)

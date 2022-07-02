@@ -1,1 +1,0 @@
-class call_super_base{}class extends call_super_base{constructor{+!0->super}}

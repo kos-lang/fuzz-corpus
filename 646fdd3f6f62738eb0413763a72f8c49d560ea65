@@ -1,0 +1,46 @@
+importre:refun will_throw
+{
+ var a   = void
+var exc = void
+try {[ will_throw()... ]
+}
+catch const e {ew=>ww=>w=>g=>w
+2
+->w=>g=>ww=>wwww=>gw=>W=>ww=>gw=>v=>gpv=>g=>g=>ww=>g=>ww=>g.value
+}
+
+
+try { [31].s = [ will_throw()... ]
+}
+catch const e {
+  e.a.le
+}
+
+}
+var a = void
+try {a  = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+7
+->w=>g=>w=>g=>www=>g=>ww=>w=>0
+8
+->w=>g=>ww=>g=>wws=>gw=>ww_=>g== [w]
+}
+catch const e{e
+}
+a=
+8
+->w=>g=>8
+0>w=>g=>ww=>g=>ww=>ww=>g=>wwsw=>ww=>gw=>Ww=>g=>w
+8
+->w=>g=>ww=>wwww=>gw=>W=>ww=>g=>w=>gw=>w=>ww>ww=>w=>g=>w
+8
+->re
+0>w=>g=>ww=>g=>ww=>gw=>ww_=>g=>w=>0
+8
+->w=>pv=>
+8
+defer{classr{}vara=25}

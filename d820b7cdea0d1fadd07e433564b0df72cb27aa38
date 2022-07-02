@@ -1,0 +1,13 @@
+fun will_throw{try {
+  [will_throw()()]
+""}
+catch const e { e
+}
+
+try { [typeof will_throw() ]
+return}
+catch const e {
+} yield 35
+}try {[will_throw()...]
+}
+catch const e {}

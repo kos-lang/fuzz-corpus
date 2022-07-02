@@ -1,0 +1,8 @@
+fun the_call(a0floate00, X0=7, a008=0,
+ a020=0, a021=0, a022=0, a023=0, a024=0, a=0X0EE, a0EF=0X0EF, ters0F3=0X0F3, a0F4=0X0FF,
+    a100=0x100)
+{0
+    return a
+}
+const result = the_call(a021=0X021, a022=0X022, a023=0X023, a024=0X024B7)
+assert result

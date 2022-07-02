@@ -1,0 +1,61 @@
+importre:refun will_throw
+{
+ var a   = void
+try {   a = [ will_throw()... ]
+}
+catch const e {e.value
+}
+
+
+try {
+ [ will_throw()... ]
+}
+catch const e {
+  e.a.le
+}
+
+}
+var a = void
+try {a = [will_throw()... ]
+}
+catch const e{e
+}
+a=
+8
+->w=>g=>w=>g=>www=>gw=>ww=>w=>0
+->w=>g=>ww=>gw=>W=>ww=>g=>w=>gw=>w=>ww>ww=>w=>g=>w
+8>w=>g=>wtww=>ww=>ww=>8
+0>w=>g=>ww=>g=>ww=>w=>w=>ww=>g=>ww=>gw=>ww_=>gw=>w=>ww=>w=>W=>ww=>w=>g=>w
+8
+->w=>g=>ww=>ww_=>gw=>w=>ww=>ww_=>gww=>ww=>9
+0>w=>g=>ww=>g=>ww=>iw=>ww_=>gw=>ww=>w=>0
+8
+->w=>g=>wg=>w=>ww=>ww=>w=>g=>rw=>gw=>ww_=>gw=>w=>wyigw=>gw=>W=>ww=>w=>g=>w
+8
+->w=>g=>ww=>ww_=>gw=>ww=>ww_=>gw=>w=>ww=>ww_=>w=>ww=>ww_=>gww=>ww=>8
+0>w=>g=>ww=>g=>ww=>w== "v"
+>g=>w=>g=>ww=>ww_=>gw=>w=>ww=>5
+8
+->w=>g=>gw=>0
+8>g=>ww=>gw=>W=>ww=>ww_=>gwz=>w=>ww=>v=>gp=>gw=>gw=>ww=>ww=>w=>g=>w=>gw=>w=>ww>ww=>w=>g=>w=>g=>ww=>ww=>ww=>8
+0>w=>g=>ww=>g=>ww=>w=>w=>ww=>g=>w
+8
+->w=>g=>w=>g=>www=>gw=>ww=>w=>0>w=>g=>ww=>gw=>W=>ww=>g=>w=>gw=>w=>ww>ww=>w=>g=>w
+8
+->w=>g=>ww=>ww=>ww=>8
+0>w=> "v"
+>g=>w=>g=>ww=>ww_=>gw=>w=>ww=>5
+8
+->w=>g=>g>g=>ww=>gw=>ww_=>gwz=>w=>ww=>v=>gpv=>gw=>gw=>wt=>ww=>w=>g=>w=>gw=>w=>ww>ww=>w=>falseg=>w
+8
+->w=>g=>ww=>w=>g=>w=>gw=>w=>ww=>gw=>ww=>ww=>w=>g=>w=>gw=>w=>ww>ww=>w=>falseg=>w
+8
+->w=>g=>ww=>ww=>ww=>8
+0>w=>g=>ww=>b=>ww=>w=>w=>ww=>g=>ww=>gw=>ww_=>gw=>w=>ww=>gw=>W=>ww=>w=>g=>w
+6
+->w=>g=>ww=>ww_=>gw=>w=>ww=>ww_=>gww=>ww=>9
+0>w=>g=>ww=>g=>ww=>gw=>ww_=>g=>w=>0
+8
+->w=>pv=>
+8
+defer{5}

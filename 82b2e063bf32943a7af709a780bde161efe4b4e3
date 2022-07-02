@@ -1,0 +1,12 @@
+public fun range { }for const x in range(53) {fun will_throw
+{
+ 
+try { [0, 3, 1].s=![ ]
+}
+catch const e { e.ae
+}
+
+}void
+try {[will_throw()...]
+}
+catch const e{}}

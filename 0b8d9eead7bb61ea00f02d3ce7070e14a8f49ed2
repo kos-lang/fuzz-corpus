@@ -1,0 +1,2 @@
+import re.re
+re("\b\bbc\bn\\b\\b\\bool\b\ba\\bc\ban\\b\bo\bo\\b\\bc\\b\bol\b\bcol\b\b\\b\bool\bon\\b\\bc\b\\b\\bc\b\b\\bbc")

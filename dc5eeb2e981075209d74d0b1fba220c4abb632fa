@@ -1,0 +1,4 @@
+fun will_throw
+{try {delete 1[will_throw()]}catch const e{}return 18}try {[will_throw()]
+}
+catch const e {}

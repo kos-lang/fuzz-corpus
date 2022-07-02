@@ -1,0 +1,18 @@
+fun ow
+{try {fun will_throw
+{
+ var a = void
+try {    a = [ will_throw()... ]
+}
+catch const e {
+  e
+}
+
+}
+var a =g=>w=>g=>wv=>gpv=>gw=>gw=>ww=>gw=>w=>wwtw=>w=>w=>w=>ww=>gpgpv=>gpv=>gw=>gw=>ww=>ww=>w0=>g=>ww=>
+[ will_throw() ]>g=>w>gw=>w=>ww=>v=>g=>gw=>gw=>ww=>gw=>gw=>ww=>ww=>w0=>g=>w=>w=>ww=>gpgpv=>gp=>gw=>gw=>ww=>ww=>w0=>g=>ww=>
+[ will_throw() ]>g=>w=>
+[ will_throw]>w>ww}
+catch const e {
+ }8
+}

@@ -1,0 +1,5 @@
+fun will_throw{try {
+}
+catch const e {
+defer{defer{defer{defer{defer{defer{defer{;defer{defer{;defer{throw""}yield  e
+}}return}return}}}}}return}}return}

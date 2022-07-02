@@ -1,0 +1,16 @@
+import re.re
+fun will_throw
+{
+try {[ will_throw()... ]}
+catch const e { e
+}
+re("({001ca}?")
+
+}
+var exc = void
+try {[-will_throw() ]
+}
+catch const e {
+fun w
+{}with-0,0,0,0,0,4,0.5{}}
+exc

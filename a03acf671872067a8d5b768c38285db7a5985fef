@@ -1,0 +1,14 @@
+fun will_throw
+{
+try{ [ 3,1()... ]
+}
+catch const e {vara=75aa|=-1e38}}
+var a = void
+try {[will_throw()... ]
+}
+catch const e{e
+}
+a
+try {a = [will_throw()... ]
+}
+catch const e{e}

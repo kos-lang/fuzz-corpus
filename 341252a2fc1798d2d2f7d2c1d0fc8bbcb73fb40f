@@ -1,0 +1,9 @@
+fun make_it{fun i{   class Base
+   {
+ } class Dr extends Base{
+    constructor     {
+ super
+    super
+ } }
+      }
+ return} make_it(14)

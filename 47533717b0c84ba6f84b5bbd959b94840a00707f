@@ -1,0 +1,4 @@
+fun(source)
+{this
+for var em in 3{this
+  for var e in source {this}}}

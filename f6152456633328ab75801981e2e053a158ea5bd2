@@ -1,0 +1,7 @@
+fun will_throw{try{
+}
+catch const  e{
+defer{defer{defer{defer{defer{defer{defer{;defer{defer{;defer{throw""}yield 19}try {[ will_throw]
+}
+catch const e{ e
+}}return}return}return}return}}return}return}return}}
